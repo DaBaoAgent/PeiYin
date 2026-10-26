@@ -1,0 +1,595 @@
+{
+  "fingerprint": "72c3f780c8",
+  "preset": "dabao",
+  "voice_id": "dabao",
+  "voice": "dabao (GPT-SoVITS 26E ref / v2 zero-shot)",
+  "model": "gpt-sovits-v2",
+  "split": "cut1",
+  "speed": 0.95,
+  "sampling": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 15,
+    "seed": 20261020,
+    "repetition_penalty": 1.35
+  },
+  "duration": 220.936508,
+  "speakFixes": [
+    [
+      "〇",
+      "零"
+    ],
+    [
+      "100",
+      "一百"
+    ],
+    [
+      "3D",
+      "三低"
+    ],
+    [
+      "刘琮出降",
+      "刘琮出祥"
+    ],
+    [
+      "出降",
+      "出祥"
+    ],
+    [
+      "张昭主降",
+      "张昭主祥"
+    ],
+    [
+      "不战而降",
+      "不战而祥"
+    ],
+    [
+      "望风而降",
+      "望风而祥"
+    ],
+    [
+      "闻风而降",
+      "闻风而祥"
+    ],
+    [
+      "束手而降",
+      "束手而祥"
+    ],
+    [
+      "开城而降",
+      "开城而祥"
+    ],
+    [
+      "举城而降",
+      "举城而祥"
+    ],
+    [
+      "率众而降",
+      "率众而祥"
+    ],
+    [
+      "弃城而降",
+      "弃城而祥"
+    ],
+    [
+      "兵败而降",
+      "兵败而祥"
+    ],
+    [
+      "势穷而降",
+      "势穷而祥"
+    ],
+    [
+      "献城而降",
+      "献城而祥"
+    ],
+    [
+      "荆州降兵",
+      "荆州祥兵"
+    ],
+    [
+      "纳降",
+      "纳祥"
+    ],
+    [
+      "受降",
+      "受祥"
+    ],
+    [
+      "归降",
+      "归祥"
+    ],
+    [
+      "劝降",
+      "劝祥"
+    ],
+    [
+      "招降",
+      "招祥"
+    ],
+    [
+      "请降",
+      "请祥"
+    ],
+    [
+      "乞降",
+      "乞祥"
+    ],
+    [
+      "降将",
+      "祥将"
+    ],
+    [
+      "降兵",
+      "祥兵"
+    ],
+    [
+      "降者",
+      "祥者"
+    ],
+    [
+      "降表",
+      "祥表"
+    ],
+    [
+      "降书",
+      "祥书"
+    ],
+    [
+      "降于魏",
+      "祥于魏"
+    ],
+    [
+      "降于吴",
+      "祥于吴"
+    ],
+    [
+      "降于汉",
+      "祥于汉"
+    ],
+    [
+      "降于曹",
+      "祥于曹"
+    ],
+    [
+      "降于刘",
+      "祥于刘"
+    ],
+    [
+      "降于袁",
+      "祥于袁"
+    ],
+    [
+      "降于孙",
+      "祥于孙"
+    ],
+    [
+      "降于晋",
+      "祥于晋"
+    ],
+    [
+      "降魏",
+      "祥魏"
+    ],
+    [
+      "降吴",
+      "祥吴"
+    ],
+    [
+      "降汉",
+      "祥汉"
+    ],
+    [
+      "降曹",
+      "祥曹"
+    ],
+    [
+      "降刘",
+      "祥刘"
+    ],
+    [
+      "降袁",
+      "祥袁"
+    ],
+    [
+      "降孙",
+      "祥孙"
+    ],
+    [
+      "降晋",
+      "祥晋"
+    ],
+    [
+      "诈降",
+      "诈祥"
+    ],
+    [
+      "投降",
+      "投祥"
+    ],
+    [
+      "调起来也快",
+      "吊起来也快"
+    ],
+    [
+      "兵和粮调得快",
+      "兵和粮吊得快"
+    ],
+    [
+      "几千乘",
+      "几千胜"
+    ],
+    [
+      "许都",
+      "许督"
+    ],
+    [
+      "中牟",
+      "中木"
+    ],
+    [
+      "荀彧",
+      "荀玉"
+    ],
+    [
+      "张郃",
+      "张合"
+    ],
+    [
+      "乐进",
+      "岳进"
+    ],
+    [
+      "单于",
+      "蝉于"
+    ],
+    [
+      "阏氏",
+      "胭脂"
+    ],
+    [
+      "月氏",
+      "月支"
+    ],
+    [
+      "龟兹",
+      "秋慈"
+    ],
+    [
+      "吐蕃",
+      "土播"
+    ],
+    [
+      "大宛",
+      "大渊"
+    ],
+    [
+      "身毒",
+      "元毒"
+    ],
+    [
+      "并州",
+      "冰州"
+    ],
+    [
+      "兖州",
+      "演州"
+    ],
+    [
+      "邺城",
+      "夜城"
+    ],
+    [
+      "犍为",
+      "前为"
+    ],
+    [
+      "涪城",
+      "扶城"
+    ],
+    [
+      "葭萌",
+      "家萌"
+    ],
+    [
+      "猇亭",
+      "消亭"
+    ],
+    [
+      "濡须",
+      "如须"
+    ],
+    [
+      "长坂坡",
+      "常坂坡"
+    ],
+    [
+      "夏侯惇",
+      "夏侯蹲"
+    ],
+    [
+      "许褚",
+      "许楚"
+    ],
+    [
+      "沮授",
+      "举授"
+    ],
+    [
+      "审配",
+      "沈配"
+    ],
+    [
+      "淳于琼",
+      "纯于琼"
+    ],
+    [
+      "麴义",
+      "屈义"
+    ],
+    [
+      "蹋顿",
+      "踏顿"
+    ],
+    [
+      "六安",
+      "路安"
+    ],
+    [
+      "亳州",
+      "博州"
+    ],
+    [
+      "降卒",
+      "祥卒"
+    ],
+    [
+      "前线一降",
+      "前线一祥"
+    ],
+    [
+      "斩将",
+      "斩匠"
+    ],
+    [
+      "守将",
+      "守匠"
+    ],
+    [
+      "倒腾",
+      "捣腾"
+    ],
+    [
+      "炸锅",
+      "闸锅"
+    ],
+    [
+      "任何一步错都是死；袁绍那边",
+      "任何一步错都是死。袁绍那边"
+    ],
+    [
+      "是每一步都慢半拍：救乌巢慢",
+      "是每一步都慢半拍。救乌巢慢"
+    ]
+  ],
+  "tighten": {
+    "min_gap_ms": 150,
+    "keep_gap_ms": 100,
+    "silence_db": -40.0,
+    "gate_db": -33.0,
+    "gate_floor": 0.3
+  },
+  "script": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\刘秀_全篇.txt",
+  "chunks": [
+    {
+      "index": 1,
+      "text": "四十二万。对面是八千。这不是三国游戏里开了修改器，也不是编剧喝多了。这是公元二十三年，昆阳城下，真实发生的兵力对比。",
+      "spoken": "四十二万。对面是八千。这不是三国游戏里开了修改器，也不是编剧喝多了。这是公元二十三年，昆阳城下，真实发生的兵力对比。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-f7c73012b9.tight.wav",
+      "start": 0.0,
+      "duration": 8.5911,
+      "raw_duration": 10.7511,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-f7c73012b9.wav"
+    },
+    {
+      "index": 2,
+      "text": "王莽的四十二万大军，把昆阳这座小城围了里三层外三层，城上箭如雨下。城里这八千来人，是绿林军的一支杂牌军。他们的指挥官，叫刘秀。",
+      "spoken": "王莽的四十二万大军，把昆阳这座小城围了里三层外三层，城上箭如雨下。城里这八千来人，是绿林军的一支杂牌军。他们的指挥官，叫刘秀。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-7cc5d56f4d.tight.wav",
+      "start": 8.6111,
+      "duration": 10.3071,
+      "raw_duration": 12.7471,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-7cc5d56f4d.wav"
+    },
+    {
+      "index": 3,
+      "text": "对，就是那个后来的东汉开国皇帝。但那会儿，他就是个打辅助的。刘秀是刘邦的九世孙。听着吓人是吧？其实到他这一代，家里已经穷得跟普通农民没区别了。",
+      "spoken": "对，就是那个后来的东汉开国皇帝。但那会儿，他就是个打辅助的。刘秀是刘邦的九世孙。听着吓人是吧？其实到他这一代，家里已经穷得跟普通农民没区别了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-f814349d4b.tight.wav",
+      "start": 18.9381,
+      "duration": 9.9421,
+      "raw_duration": 12.9821,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-f814349d4b.wav"
+    },
+    {
+      "index": 4,
+      "text": "他哥刘縯，是个江湖大哥，天天散尽家财招兵买马，一口一个\"我要光复高祖事业\"。刘秀呢？他就种地。种得还挺好。村里人人都说，这小伙子踏实。",
+      "spoken": "他哥刘縯，是个江湖大哥，天天散尽家财招兵买马，一口一个\"我要光复高祖事业\"。刘秀呢？他就种地。种得还挺好。村里人人都说，这小伙子踏实。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-5848c03477.tight.wav",
+      "start": 28.9002,
+      "duration": 10.4355,
+      "raw_duration": 13.0555,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-5848c03477.wav"
+    },
+    {
+      "index": 5,
+      "text": "后来他哥起兵造反，把他也拽上了。你想啊，一个连鸡都没杀过的种地的，突然就上战场了。昆阳被围的时候，他是那个带着十三个人，半夜从城里缝里钻出去搬救兵的小将军。",
+      "spoken": "后来他哥起兵造反，把他也拽上了。你想啊，一个连鸡都没杀过的种地的，突然就上战场了。昆阳被围的时候，他是那个带着十三个人，半夜从城里缝里钻出去搬救兵的小将军。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-27092e1125.tight.wav",
+      "start": 39.3557,
+      "duration": 11.1679,
+      "raw_duration": 14.5079,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-27092e1125.wav"
+    },
+    {
+      "index": 6,
+      "text": "搬回来多少人？三千。三千人对四十二万。这仗，按正常逻辑，他应该跑。但接下来发生的事，你要是写进小说，编辑都得退稿，说你离谱。",
+      "spoken": "搬回来多少人？三千。三千人对四十二万。这仗，按正常逻辑，他应该跑。但接下来发生的事，你要是写进小说，编辑都得退稿，说你离谱。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-e5dff6fce3.tight.wav",
+      "start": 50.5436,
+      "duration": 10.2166,
+      "raw_duration": 14.1466,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-e5dff6fce3.wav"
+    },
+    {
+      "index": 7,
+      "text": "后汉书中白纸黑字写的：那天晚上，一颗流星，\"哐\"一下砸进王莽军营里。白天呢，又有一朵像山一样的乌云，贴着地面压下来，直接压到营垒头顶上。",
+      "spoken": "后汉书中白纸黑字写的：那天晚上，一颗流星，\"哐\"一下砸进王莽军营里。白天呢，又有一朵像山一样的乌云，贴着地面压下来，直接压到营垒头顶上。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-06df2fa221.tight.wav",
+      "start": 60.7802,
+      "duration": 10.5303,
+      "raw_duration": 12.8203,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-06df2fa221.wav"
+    },
+    {
+      "index": 8,
+      "text": "王莽的士兵哪见过这个，全吓傻了，趴在地上不敢动。刘秀就趁着这个时候，带着三千敢死队，一个冲锋，直接凿穿了四十二万大军的中军。斩杀了对方主帅王寻。",
+      "spoken": "王莽的士兵哪见过这个，全吓傻了，趴在地上不敢动。刘秀就趁着这个时候，带着三千敢死队，一个冲锋，直接凿穿了四十二万大军的中军。斩杀了对方主帅王寻。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-091394d13f.tight.wav",
+      "start": 71.3306,
+      "duration": 11.1393,
+      "raw_duration": 12.9793,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-091394d13f.wav"
+    },
+    {
+      "index": 9,
+      "text": "城里的八千人一看外面赢了，也开城杀出来。四十二万人，就这么崩了。踩死的、淹死的、自己人踩自己人的，尸体堵了几十里路。这一战，王莽的家底，一夜之间全没了。",
+      "spoken": "城里的八千人一看外面赢了，也开城杀出来。四十二万人，就这么崩了。踩死的、淹死的、自己人踩自己人的，尸体堵了几十里路。这一战，王莽的家底，一夜之间全没了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-94211b5609.tight.wav",
+      "start": 82.4898,
+      "duration": 12.2971,
+      "raw_duration": 16.1571,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-94211b5609.wav"
+    },
+    {
+      "index": 10,
+      "text": "故事到这，跟爽文一样对吧？但接下来，才是刘秀这个人真正吓人的地方。昆阳大捷之后，他哥刘縯，因为功高震主，被更始帝刘玄找了个由头杀了。换一般人怎么办？反了。",
+      "spoken": "故事到这，跟爽文一样对吧？但接下来，才是刘秀这个人真正吓人的地方。昆阳大捷之后，他哥刘縯，因为功高震主，被更始帝刘玄找了个由头杀了。换一般人怎么办？反了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-d4559ec107.tight.wav",
+      "start": 94.8069,
+      "duration": 12.2205,
+      "raw_duration": 16.1605,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-d4559ec107.wav"
+    },
+    {
+      "index": 11,
+      "text": "拼命。刘秀呢？他一个人骑马跑回宛城，找到更始帝，认罪。说我哥不对，我替他谢罪。不给哥哥发丧，不穿孝服，吃饭喝酒跟平时一样，谈笑风生。",
+      "spoken": "拼命。刘秀呢？他一个人骑马跑回宛城，找到更始帝，认罪。说我哥不对，我替他谢罪。不给哥哥发丧，不穿孝服，吃饭喝酒跟平时一样，谈笑风生。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-9d62e4a20a.tight.wav",
+      "start": 107.0475,
+      "duration": 10.6297,
+      "raw_duration": 15.4897,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-9d62e4a20a.wav"
+    },
+    {
+      "index": 12,
+      "text": "晚上睡觉的时候，枕头是湿的。但白天，谁也看不出来。更始帝反倒不好意思了。本来想顺手把刘秀也办了，结果看他这副样子，心软了。后来派他去河北招抚。",
+      "spoken": "晚上睡觉的时候，枕头是湿的。但白天，谁也看不出来。更始帝反倒不好意思了。本来想顺手把刘秀也办了，结果看他这副样子，心软了。后来派他去河北招抚。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-ea3f0e5a27.tight.wav",
+      "start": 117.6972,
+      "duration": 11.2068,
+      "raw_duration": 14.5868,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-ea3f0e5a27.wav"
+    },
+    {
+      "index": 13,
+      "text": "他就带着几个随从，一条命，去了。谁能想到，这一去，就是龙归大海。到了河北，一开始也惨，被人追着跑，一路逃命。但奇怪的事一件接一件。",
+      "spoken": "他就带着几个随从，一条命，去了。谁能想到，这一去，就是龙归大海。到了河北，一开始也惨，被人追着跑，一路逃命。但奇怪的事一件接一件。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-59e2efac3c.tight.wav",
+      "start": 128.924,
+      "duration": 10.6106,
+      "raw_duration": 14.7506,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-59e2efac3c.wav"
+    },
+    {
+      "index": 14,
+      "text": "过河，河冰刚结上人就过去了，后面追兵一踩，冰塌了。迷路了，遇个老头给他指路。打着打着，沿路的地方豪强主动带钱带兵来投。三年后，他称帝。又两年，统一天下。",
+      "spoken": "过河，河冰刚结上人就过去了，后面追兵一踩，冰塌了。迷路了，遇个老头给他指路。打着打着，沿路的地方豪强主动带钱带兵来投。三年后，他称帝。又两年，统一天下。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-6a8f4ee8b3.tight.wav",
+      "start": 139.5546,
+      "duration": 13.0187,
+      "raw_duration": 17.5387,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-6a8f4ee8b3.wav"
+    },
+    {
+      "index": 15,
+      "text": "从他哥被杀、他单骑跑路，到他坐到洛阳皇宫里——三年。历史上这么多开国皇帝，朱元璋用了十七年，刘邦用了七年，李渊靠的是关陇贵族。刘秀呢？",
+      "spoken": "从他哥被杀、他单骑跑路，到他坐到洛阳皇宫里——三年。历史上这么多开国皇帝，朱元璋用了十七年，刘邦用了七年，李渊靠的是关陇贵族。刘秀呢？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-57fd639a75.tight.wav",
+      "start": 152.5932,
+      "duration": 10.3006,
+      "raw_duration": 14.0506,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-57fd639a75.wav"
+    },
+    {
+      "index": 16,
+      "text": "他像一个被命运硬塞了剧本的人。但你仔细琢磨，光靠运气也撑不了三十年。云台二十八将，跟着他打天下的那帮人，最后全善终了。",
+      "spoken": "他像一个被命运硬塞了剧本的人。但你仔细琢磨，光靠运气也撑不了三十年。云台二十八将，跟着他打天下的那帮人，最后全善终了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-50bc6247ad.tight.wav",
+      "start": 162.9138,
+      "duration": 8.5634,
+      "raw_duration": 10.6534,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-50bc6247ad.wav"
+    },
+    {
+      "index": 17,
+      "text": "历史上开国皇帝大杀功臣的剧本，到他这儿没上演。打完仗他也不搞什么封禅巡游，就一件事：让老百姓歇着。还有个事挺逗。",
+      "spoken": "历史上开国皇帝大杀功臣的剧本，到他这儿没上演。打完仗他也不搞什么封禅巡游，就一件事：让老百姓歇着。还有个事挺逗。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-229552b7dc.tight.wav",
+      "start": 171.4972,
+      "duration": 8.3755,
+      "raw_duration": 10.1355,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-229552b7dc.wav"
+    },
+    {
+      "index": 18,
+      "text": "他年轻的时候在新野城里溜达，看到执金吾的车队过，又听说阴丽华长得好看，当场立了个志：仕宦当作执金吾，娶妻当得阴丽华。",
+      "spoken": "他年轻的时候在新野城里溜达，看到执金吾的车队过，又听说阴丽华长得好看，当场立了个志：仕宦当作执金吾，娶妻当得阴丽华。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-4ced8c4b8d.tight.wav",
+      "start": 179.8927,
+      "duration": 9.7798,
+      "raw_duration": 11.7298,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-4ced8c4b8d.wav"
+    },
+    {
+      "index": 19,
+      "text": "搁今天就是一个小镇青年看到别人开宝马，发誓以后我也要开宝马娶女神。后来他真当皇帝了，真把阴丽华娶了。也没像别的皇帝那样后宫三千忘了本。",
+      "spoken": "搁今天就是一个小镇青年看到别人开宝马，发誓以后我也要开宝马娶女神。后来他真当皇帝了，真把阴丽华娶了。也没像别的皇帝那样后宫三千忘了本。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-1c89a03420.tight.wav",
+      "start": 189.6924,
+      "duration": 10.177,
+      "raw_duration": 12.637,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-1c89a03420.wav"
+    },
+    {
+      "index": 20,
+      "text": "所以后人给他起外号叫\"位面之子\"，说他开了挂。挂确实开了。但你看他哥死了他能忍，进河北能攒，当了皇帝能不飘——这就不是挂的事了。是这个人，本来就挺稳。",
+      "spoken": "所以后人给他起外号叫\"位面之子\"，说他开了挂。挂确实开了。但你看他哥死了他能忍，进河北能攒，当了皇帝能不飘——这就不是挂的事了。是这个人，本来就挺稳。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-b4eea25bc2.tight.wav",
+      "start": 199.8894,
+      "duration": 11.0489,
+      "raw_duration": 14.5089,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-b4eea25bc2.wav"
+    },
+    {
+      "index": 21,
+      "text": "对了，他死之前还下了道遗诏，说我这辈子没给百姓办什么好事，后事一律从简，不要造大墓。你看，连死都这么低调。我是艾伦，遛狗去了，拜了个拜。",
+      "spoken": "对了，他死之前还下了道遗诏，说我这辈子没给百姓办什么好事，后事一律从简，不要造大墓。你看，连死都这么低调。我是艾伦，遛狗去了，拜了个拜。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-0e9319b731.tight.wav",
+      "start": 210.9584,
+      "duration": 9.9781,
+      "raw_duration": 13.5181,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-0e9319b731.wav"
+    }
+  ]
+}

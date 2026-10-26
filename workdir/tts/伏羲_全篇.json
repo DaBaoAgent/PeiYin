@@ -1,0 +1,815 @@
+{
+  "fingerprint": "72c3f780c8",
+  "preset": "dabao",
+  "voice_id": "dabao",
+  "voice": "dabao (GPT-SoVITS 26E ref / v2 zero-shot)",
+  "model": "gpt-sovits-v2",
+  "split": "cut1",
+  "speed": 0.95,
+  "sampling": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 15,
+    "seed": 20261020,
+    "repetition_penalty": 1.35
+  },
+  "duration": 439.648163,
+  "speakFixes": [
+    [
+      "〇",
+      "零"
+    ],
+    [
+      "100",
+      "一百"
+    ],
+    [
+      "3D",
+      "三低"
+    ],
+    [
+      "刘琮出降",
+      "刘琮出祥"
+    ],
+    [
+      "出降",
+      "出祥"
+    ],
+    [
+      "张昭主降",
+      "张昭主祥"
+    ],
+    [
+      "不战而降",
+      "不战而祥"
+    ],
+    [
+      "望风而降",
+      "望风而祥"
+    ],
+    [
+      "闻风而降",
+      "闻风而祥"
+    ],
+    [
+      "束手而降",
+      "束手而祥"
+    ],
+    [
+      "开城而降",
+      "开城而祥"
+    ],
+    [
+      "举城而降",
+      "举城而祥"
+    ],
+    [
+      "率众而降",
+      "率众而祥"
+    ],
+    [
+      "弃城而降",
+      "弃城而祥"
+    ],
+    [
+      "兵败而降",
+      "兵败而祥"
+    ],
+    [
+      "势穷而降",
+      "势穷而祥"
+    ],
+    [
+      "献城而降",
+      "献城而祥"
+    ],
+    [
+      "荆州降兵",
+      "荆州祥兵"
+    ],
+    [
+      "纳降",
+      "纳祥"
+    ],
+    [
+      "受降",
+      "受祥"
+    ],
+    [
+      "归降",
+      "归祥"
+    ],
+    [
+      "劝降",
+      "劝祥"
+    ],
+    [
+      "招降",
+      "招祥"
+    ],
+    [
+      "请降",
+      "请祥"
+    ],
+    [
+      "乞降",
+      "乞祥"
+    ],
+    [
+      "降将",
+      "祥将"
+    ],
+    [
+      "降兵",
+      "祥兵"
+    ],
+    [
+      "降者",
+      "祥者"
+    ],
+    [
+      "降表",
+      "祥表"
+    ],
+    [
+      "降书",
+      "祥书"
+    ],
+    [
+      "降于魏",
+      "祥于魏"
+    ],
+    [
+      "降于吴",
+      "祥于吴"
+    ],
+    [
+      "降于汉",
+      "祥于汉"
+    ],
+    [
+      "降于曹",
+      "祥于曹"
+    ],
+    [
+      "降于刘",
+      "祥于刘"
+    ],
+    [
+      "降于袁",
+      "祥于袁"
+    ],
+    [
+      "降于孙",
+      "祥于孙"
+    ],
+    [
+      "降于晋",
+      "祥于晋"
+    ],
+    [
+      "降魏",
+      "祥魏"
+    ],
+    [
+      "降吴",
+      "祥吴"
+    ],
+    [
+      "降汉",
+      "祥汉"
+    ],
+    [
+      "降曹",
+      "祥曹"
+    ],
+    [
+      "降刘",
+      "祥刘"
+    ],
+    [
+      "降袁",
+      "祥袁"
+    ],
+    [
+      "降孙",
+      "祥孙"
+    ],
+    [
+      "降晋",
+      "祥晋"
+    ],
+    [
+      "诈降",
+      "诈祥"
+    ],
+    [
+      "投降",
+      "投祥"
+    ],
+    [
+      "调起来也快",
+      "吊起来也快"
+    ],
+    [
+      "兵和粮调得快",
+      "兵和粮吊得快"
+    ],
+    [
+      "几千乘",
+      "几千胜"
+    ],
+    [
+      "许都",
+      "许督"
+    ],
+    [
+      "中牟",
+      "中木"
+    ],
+    [
+      "荀彧",
+      "荀玉"
+    ],
+    [
+      "张郃",
+      "张合"
+    ],
+    [
+      "乐进",
+      "岳进"
+    ],
+    [
+      "单于",
+      "蝉于"
+    ],
+    [
+      "阏氏",
+      "胭脂"
+    ],
+    [
+      "月氏",
+      "月支"
+    ],
+    [
+      "龟兹",
+      "秋慈"
+    ],
+    [
+      "吐蕃",
+      "土播"
+    ],
+    [
+      "大宛",
+      "大渊"
+    ],
+    [
+      "身毒",
+      "元毒"
+    ],
+    [
+      "并州",
+      "冰州"
+    ],
+    [
+      "兖州",
+      "演州"
+    ],
+    [
+      "邺城",
+      "夜城"
+    ],
+    [
+      "犍为",
+      "前为"
+    ],
+    [
+      "涪城",
+      "扶城"
+    ],
+    [
+      "葭萌",
+      "家萌"
+    ],
+    [
+      "猇亭",
+      "消亭"
+    ],
+    [
+      "濡须",
+      "如须"
+    ],
+    [
+      "长坂坡",
+      "常坂坡"
+    ],
+    [
+      "夏侯惇",
+      "夏侯蹲"
+    ],
+    [
+      "许褚",
+      "许楚"
+    ],
+    [
+      "沮授",
+      "举授"
+    ],
+    [
+      "审配",
+      "沈配"
+    ],
+    [
+      "淳于琼",
+      "纯于琼"
+    ],
+    [
+      "麴义",
+      "屈义"
+    ],
+    [
+      "蹋顿",
+      "踏顿"
+    ],
+    [
+      "六安",
+      "路安"
+    ],
+    [
+      "亳州",
+      "博州"
+    ],
+    [
+      "降卒",
+      "祥卒"
+    ],
+    [
+      "前线一降",
+      "前线一祥"
+    ],
+    [
+      "斩将",
+      "斩匠"
+    ],
+    [
+      "守将",
+      "守匠"
+    ],
+    [
+      "倒腾",
+      "捣腾"
+    ],
+    [
+      "炸锅",
+      "闸锅"
+    ],
+    [
+      "任何一步错都是死；袁绍那边",
+      "任何一步错都是死。袁绍那边"
+    ],
+    [
+      "是每一步都慢半拍：救乌巢慢",
+      "是每一步都慢半拍。救乌巢慢"
+    ]
+  ],
+  "tighten": {
+    "min_gap_ms": 150,
+    "keep_gap_ms": 100,
+    "silence_db": -40.0,
+    "gate_db": -33.0,
+    "gate_floor": 0.3
+  },
+  "script": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\伏羲_全篇.txt",
+  "chunks": [
+    {
+      "index": 1,
+      "text": "你现在手机里用的六十四卦算命小程序，你小区门口摆摊的瞎子算卦用的那套东西，追根溯源，都是一个人画出来的。这个人不是什么修仙的老道，也不是什么后来的算命先生。",
+      "spoken": "你现在手机里用的六十四卦算命小程序，你小区门口摆摊的瞎子算卦用的那套东西，追根溯源，都是一个人画出来的。这个人不是什么修仙的老道，也不是什么后来的算命先生。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-ad8d6f38c5.tight.wav",
+      "start": 0.0,
+      "duration": 11.6511,
+      "raw_duration": 13.8311,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-ad8d6f38c5.wav"
+    },
+    {
+      "index": 2,
+      "text": "他是一个距今六千多年，连房子都没住上的原始人。他叫伏羲。但我今天要跟你讲的，不是那些神话故事。我要跟你讲的是，这个人为什么被叫做人文始祖。",
+      "spoken": "他是一个距今六千多年，连房子都没住上的原始人。他叫伏羲。但我今天要跟你讲的，不是那些神话故事。我要跟你讲的是，这个人为什么被叫做人文始祖。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-ad05cb338f.tight.wav",
+      "start": 11.6711,
+      "duration": 10.482,
+      "raw_duration": 13.482,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-ad05cb338f.wav"
+    },
+    {
+      "index": 3,
+      "text": "不是吹的，是他真的一个人，干了一个文明该干的事。你先记住一个概念：在伏羲之前，我们的祖先是什么状态？跟野兽差不多。",
+      "spoken": "不是吹的，是他真的一个人，干了一个文明该干的事。你先记住一个概念：在伏羲之前，我们的祖先是什么状态？跟野兽差不多。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-dcb9b5d7ba.tight.wav",
+      "start": 22.1731,
+      "duration": 8.4503,
+      "raw_duration": 10.8903,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-dcb9b5d7ba.wav"
+    },
+    {
+      "index": 4,
+      "text": "今天摘个果子，明天逮个兔子，后天被老虎吃了。没有文字，没有规矩，没有房子，连自己姓什么都不知道。然后伏羲出现了。",
+      "spoken": "今天摘个果子，明天逮个兔子，后天被老虎吃了。没有文字，没有规矩，没有房子，连自己姓什么都不知道。然后伏羲出现了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-76327bdcf7.tight.wav",
+      "start": 30.6434,
+      "duration": 8.561,
+      "raw_duration": 10.411,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-76327bdcf7.wav"
+    },
+    {
+      "index": 5,
+      "text": "他一个人，相当于给人类这个系统，从零写了一套操作系统。你别急，我慢慢给你讲。第一件事，他画了八卦。这个事你们都听过。伏羲仰观天文，俯察地理，画出了八卦。",
+      "spoken": "他一个人，相当于给人类这个系统，从零写了一套操作系统。你别急，我慢慢给你讲。第一件事，他画了八卦。这个事你们都听过。伏羲仰观天文，俯察地理，画出了八卦。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-bb0e26b489.tight.wav",
+      "start": 39.2244,
+      "duration": 11.9778,
+      "raw_duration": 15.9778,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-bb0e26b489.wav"
+    },
+    {
+      "index": 6,
+      "text": "听着像玄学是吧？我给你翻译一下。八卦是什么？是人类历史上第一个二进制系统。你看啊，阳爻是一根长横，阴爻是两根短横。就两种符号。",
+      "spoken": "听着像玄学是吧？我给你翻译一下。八卦是什么？是人类历史上第一个二进制系统。你看啊，阳爻是一根长横，阴爻是两根短横。就两种符号。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-73e42be948.tight.wav",
+      "start": 51.2222,
+      "duration": 9.9916,
+      "raw_duration": 12.9516,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-73e42be948.wav"
+    },
+    {
+      "index": 7,
+      "text": "然后这两种符号，每三个一组，组成八种组合，乾、坤、震、巽、坎、离、艮、兑。这不就是二进制吗？零和一，然后排列组合。",
+      "spoken": "然后这两种符号，每三个一组，组成八种组合，乾、坤、震、巽、坎、离、艮、兑。这不就是二进制吗？零和一，然后排列组合。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-ff18e3ed16.tight.wav",
+      "start": 61.2337,
+      "duration": 10.7789,
+      "raw_duration": 13.8189,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-ff18e3ed16.wav"
+    },
+    {
+      "index": 8,
+      "text": "六千年前，这个人就在用两种符号排列组合来解释世界了。你想想，计算机的发明才多久？他为什么要画这个？因为他要给万事万物分类。",
+      "spoken": "六千年前，这个人就在用两种符号排列组合来解释世界了。你想想，计算机的发明才多久？他为什么要画这个？因为他要给万事万物分类。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-fde5f0726b.tight.wav",
+      "start": 72.0327,
+      "duration": 9.2393,
+      "raw_duration": 11.7593,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-fde5f0726b.wav"
+    },
+    {
+      "index": 9,
+      "text": "天是什么，地是什么，水是什么，火是什么，雷是什么，风是什么，山是什么，泽是什么。每一类，用一个符号代表。这不是算命。",
+      "spoken": "天是什么，地是什么，水是什么，火是什么，雷是什么，风是什么，山是什么，泽是什么。每一类，用一个符号代表。这不是算命。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-76e253ca11.tight.wav",
+      "start": 81.292,
+      "duration": 8.4648,
+      "raw_duration": 11.6148,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-76e253ca11.wav"
+    },
+    {
+      "index": 10,
+      "text": "这是人类第一次尝试，用一套符号系统来给世界建模。后来周文王在这个基础上推演出了六十四卦。再后来，老子、孔子、诸子百家，全都是在这个框架里玩。",
+      "spoken": "这是人类第一次尝试，用一套符号系统来给世界建模。后来周文王在这个基础上推演出了六十四卦。再后来，老子、孔子、诸子百家，全都是在这个框架里玩。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-f9d913e87d.tight.wav",
+      "start": 89.7768,
+      "duration": 11.3918,
+      "raw_duration": 13.6618,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-f9d913e87d.wav"
+    },
+    {
+      "index": 11,
+      "text": "你今天读的易经，追根溯源，就是伏羲画的那八条线。你说他是不是个程序员？六千年前的操作系统架构师。第二件事，他发明了渔网。你可能觉得这有什么了不起的？渔网嘛。",
+      "spoken": "你今天读的易经，追根溯源，就是伏羲画的那八条线。你说他是不是个程序员？六千年前的操作系统架构师。第二件事，他发明了渔网。你可能觉得这有什么了不起的？渔网嘛。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-dabe300005.tight.wav",
+      "start": 101.1886,
+      "duration": 12.6189,
+      "raw_duration": 16.8389,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-dabe300005.wav"
+    },
+    {
+      "index": 12,
+      "text": "但你想想，在伏羲之前，人怎么打鱼？拿手去捞。拿石头去砸。蹲在河边等鱼自己跳上来。一天能捞着一条就不错了。伏羲干了什么？",
+      "spoken": "但你想想，在伏羲之前，人怎么打鱼？拿手去捞。拿石头去砸。蹲在河边等鱼自己跳上来。一天能捞着一条就不错了。伏羲干了什么？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-1612b16725.tight.wav",
+      "start": 113.8275,
+      "duration": 7.9471,
+      "raw_duration": 10.7071,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-1612b16725.wav"
+    },
+    {
+      "index": 13,
+      "text": "他观察蜘蛛结网，然后照着那个样子，用绳子编了一张网。就这一下，捕鱼效率翻了几十倍。以前十个人打一天鱼不够吃，现在一个人撒一网，够全族吃三天。这叫什么？",
+      "spoken": "他观察蜘蛛结网，然后照着那个样子，用绳子编了一张网。就这一下，捕鱼效率翻了几十倍。以前十个人打一天鱼不够吃，现在一个人撒一网，够全族吃三天。这叫什么？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-7f74307e0d.tight.wav",
+      "start": 121.7947,
+      "duration": 11.6421,
+      "raw_duration": 15.2921,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-7f74307e0d.wav"
+    },
+    {
+      "index": 14,
+      "text": "这叫技术革命。而且他不光搞了渔网，还搞了兽网。就是打猎用的网。以前打猎得追着鹿跑，跑死了才算赢。现在好了，设个网，鹿自己撞上来。你想想这个意义。",
+      "spoken": "这叫技术革命。而且他不光搞了渔网，还搞了兽网。就是打猎用的网。以前打猎得追着鹿跑，跑死了才算赢。现在好了，设个网，鹿自己撞上来。你想想这个意义。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-dc3c507f1a.tight.wav",
+      "start": 133.4568,
+      "duration": 10.5872,
+      "raw_duration": 14.1272,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-dc3c507f1a.wav"
+    },
+    {
+      "index": 15,
+      "text": "当一个部落的食物来源突然变得稳定了，会发生什么？第一，人不用天天搬家找吃的了。可以定居。第二，吃不完的猎物怎么办？养起来。于是畜牧业诞生了。",
+      "spoken": "当一个部落的食物来源突然变得稳定了，会发生什么？第一，人不用天天搬家找吃的了。可以定居。第二，吃不完的猎物怎么办？养起来。于是畜牧业诞生了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-b389763b15.tight.wav",
+      "start": 144.064,
+      "duration": 10.2288,
+      "raw_duration": 13.7588,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-b389763b15.wav"
+    },
+    {
+      "index": 16,
+      "text": "第三，人吃饱了没事干，就开始琢磨别的。于是文化、艺术、规矩，全来了。所以你看，一张网，改变了整个文明的走向。这不是我夸张，这是考古学和人类学的共识。",
+      "spoken": "第三，人吃饱了没事干，就开始琢磨别的。于是文化、艺术、规矩，全来了。所以你看，一张网，改变了整个文明的走向。这不是我夸张，这是考古学和人类学的共识。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-548ef2f0bb.tight.wav",
+      "start": 154.3129,
+      "duration": 11.8868,
+      "raw_duration": 16.4568,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-548ef2f0bb.wav"
+    },
+    {
+      "index": 17,
+      "text": "第三件事，他定了嫁娶。这个事更狠。在伏羲之前，人是什么状态？群婚。就是一帮男的一帮女的，住在一起，孩子生下来不知道爹是谁。你别觉得这是什么原始浪漫。",
+      "spoken": "第三件事，他定了嫁娶。这个事更狠。在伏羲之前，人是什么状态？群婚。就是一帮男的一帮女的，住在一起，孩子生下来不知道爹是谁。你别觉得这是什么原始浪漫。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-55b4a3f381.tight.wav",
+      "start": 166.2197,
+      "duration": 10.4653,
+      "raw_duration": 15.2953,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-55b4a3f381.wav"
+    },
+    {
+      "index": 18,
+      "text": "问题大了。第一，近亲结婚生的孩子容易畸形。部落人口素质越来越差。第二，孩子不知道爹是谁，那部落的组织架构就全靠母系这一条线。",
+      "spoken": "问题大了。第一，近亲结婚生的孩子容易畸形。部落人口素质越来越差。第二，孩子不知道爹是谁，那部落的组织架构就全靠母系这一条线。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-a823130fa0.tight.wav",
+      "start": 176.7049,
+      "duration": 10.0728,
+      "raw_duration": 13.2028,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-a823130fa0.wav"
+    },
+    {
+      "index": 19,
+      "text": "舅甥相传，哥哥死了弟弟上，永远形不成一个稳定的父系家族。第三，没有婚姻制度，就没有财产制度。今天你的东西明天我的，乱套。伏羲干了什么？",
+      "spoken": "舅甥相传，哥哥死了弟弟上，永远形不成一个稳定的父系家族。第三，没有婚姻制度，就没有财产制度。今天你的东西明天我的，乱套。伏羲干了什么？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-491c2da7f4.tight.wav",
+      "start": 186.7978,
+      "duration": 10.0883,
+      "raw_duration": 13.4383,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-491c2da7f4.wav"
+    },
+    {
+      "index": 20,
+      "text": "他规定了：两个人要结婚，得有礼物。男方给女方一张鹿皮作为聘礼。而且，结婚以后就是两口子，不能乱来了。这就是人类历史上第一个婚姻法。你别小看这个。",
+      "spoken": "他规定了：两个人要结婚，得有礼物。男方给女方一张鹿皮作为聘礼。而且，结婚以后就是两口子，不能乱来了。这就是人类历史上第一个婚姻法。你别小看这个。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-806a0322d6.tight.wav",
+      "start": 196.9061,
+      "duration": 11.2347,
+      "raw_duration": 14.3247,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-806a0322d6.wav"
+    },
+    {
+      "index": 21,
+      "text": "婚姻制度一出来，意味着什么？意味着家庭出现了。家庭是最小的社会单元。有了家庭，才有了私有财产。有了私有财产，才有了继承。有了继承，才有了部落酋长这个位子。",
+      "spoken": "婚姻制度一出来，意味着什么？意味着家庭出现了。家庭是最小的社会单元。有了家庭，才有了私有财产。有了私有财产，才有了继承。有了继承，才有了部落酋长这个位子。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-fbf3df465b.tight.wav",
+      "start": 208.1608,
+      "duration": 10.0463,
+      "raw_duration": 13.4763,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-fbf3df465b.wav"
+    },
+    {
+      "index": 22,
+      "text": "有了酋长，才有了国家。你看，从一张鹿皮开始，一路推导出了整个文明。第四件事，他造了琴。伏羲还发明了琴。对，就是那个琴棋书画里的琴。他用什么造的？梧桐树。",
+      "spoken": "有了酋长，才有了国家。你看，从一张鹿皮开始，一路推导出了整个文明。第四件事，他造了琴。伏羲还发明了琴。对，就是那个琴棋书画里的琴。他用什么造的？梧桐树。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\022-9c40854546.tight.wav",
+      "start": 218.227,
+      "duration": 12.0133,
+      "raw_duration": 17.4433,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\022-9c40854546.wav"
+    },
+    {
+      "index": 23,
+      "text": "把梧桐树砍下来，刨成木板，上面绷上丝弦。一弹，出声了。你说这个有什么用？不能吃不能穿。但你想想，当一群人晚上围着火堆坐着，以前只能吼两嗓子。",
+      "spoken": "把梧桐树砍下来，刨成木板，上面绷上丝弦。一弹，出声了。你说这个有什么用？不能吃不能穿。但你想想，当一群人晚上围着火堆坐着，以前只能吼两嗓子。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\023-c6d6d73e1b.tight.wav",
+      "start": 230.2604,
+      "duration": 10.6365,
+      "raw_duration": 14.2265,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\023-c6d6d73e1b.wav"
+    },
+    {
+      "index": 24,
+      "text": "现在有人弹琴了，那是什么感觉？这叫什么？这叫精神需求。当一个部落开始搞音乐了，说明他们的物质生活已经够稳定了。不用天天担心被老虎吃，不用天天担心饿肚子了。",
+      "spoken": "现在有人弹琴了，那是什么感觉？这叫什么？这叫精神需求。当一个部落开始搞音乐了，说明他们的物质生活已经够稳定了。不用天天担心被老虎吃，不用天天担心饿肚子了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\024-d52f93f277.tight.wav",
+      "start": 240.9168,
+      "duration": 11.6074,
+      "raw_duration": 14.7374,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\024-d52f93f277.wav"
+    },
+    {
+      "index": 25,
+      "text": "开始琢磨艺术了。这是文明的标志。第五件事，他做了历法。伏羲还观察太阳和月亮的运行规律，定了节气。什么时候播种，什么时候收获，什么时候过冬。",
+      "spoken": "开始琢磨艺术了。这是文明的标志。第五件事，他做了历法。伏羲还观察太阳和月亮的运行规律，定了节气。什么时候播种，什么时候收获，什么时候过冬。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\025-02143a2d19.tight.wav",
+      "start": 252.5443,
+      "duration": 10.0833,
+      "raw_duration": 13.2633,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\025-02143a2d19.wav"
+    },
+    {
+      "index": 26,
+      "text": "以前全凭感觉，现在有了日历。这意味着农业的萌芽。虽然伏羲那个时代主要还是打猎采集，但有了时间观念，后面的农业文明就有了基础。",
+      "spoken": "以前全凭感觉，现在有了日历。这意味着农业的萌芽。虽然伏羲那个时代主要还是打猎采集，但有了时间观念，后面的农业文明就有了基础。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\026-befdf41029.tight.wav",
+      "start": 262.6475,
+      "duration": 9.6349,
+      "raw_duration": 11.7249,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\026-befdf41029.wav"
+    },
+    {
+      "index": 27,
+      "text": "你把这些事加在一起看看：八卦，符号系统。渔网，生产技术。嫁娶，社会制度。琴，艺术。历法，时间管理。一个人，一口气干了五件事。",
+      "spoken": "你把这些事加在一起看看：八卦，符号系统。渔网，生产技术。嫁娶，社会制度。琴，艺术。历法，时间管理。一个人，一口气干了五件事。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\027-bae9d3a0ec.tight.wav",
+      "start": 272.3024,
+      "duration": 10.2127,
+      "raw_duration": 15.3427,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\027-bae9d3a0ec.wav"
+    },
+    {
+      "index": 28,
+      "text": "每一件事，都够别的文明琢磨几百年的。说到伏羲，就绕不开女娲。神话里说，他俩是兄妹，也是夫妻。人首蛇身，两条蛇尾巴缠在一起。你别觉得这是古人瞎编。",
+      "spoken": "每一件事，都够别的文明琢磨几百年的。说到伏羲，就绕不开女娲。神话里说，他俩是兄妹，也是夫妻。人首蛇身，两条蛇尾巴缠在一起。你别觉得这是古人瞎编。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\028-c056ce4885.tight.wav",
+      "start": 282.5351,
+      "duration": 11.743,
+      "raw_duration": 15.323,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\028-c056ce4885.wav"
+    },
+    {
+      "index": 29,
+      "text": "这个形象其实特别有深意。人首，代表智慧。蛇身，代表繁衍。两条蛇缠在一起，代表阴阳交合。这其实是中国人最早的宇宙观：阴阳相生，万物化生。",
+      "spoken": "这个形象其实特别有深意。人首，代表智慧。蛇身，代表繁衍。两条蛇缠在一起，代表阴阳交合。这其实是中国人最早的宇宙观：阴阳相生，万物化生。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\029-2a9331cc13.tight.wav",
+      "start": 294.2981,
+      "duration": 11.5647,
+      "raw_duration": 15.3447,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\029-2a9331cc13.wav"
+    },
+    {
+      "index": 30,
+      "text": "而且你注意，女娲做了什么？补天、造人。伏羲做了什么？画卦、定制度。一个管生，一个管理。一个负责把人创造出来，一个负责把人组织起来。",
+      "spoken": "而且你注意，女娲做了什么？补天、造人。伏羲做了什么？画卦、定制度。一个管生，一个管理。一个负责把人创造出来，一个负责把人组织起来。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\030-cbf69a89e3.tight.wav",
+      "start": 305.8828,
+      "duration": 9.9967,
+      "raw_duration": 13.1667,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\030-cbf69a89e3.wav"
+    },
+    {
+      "index": 31,
+      "text": "这俩人加在一起，才是完整的文明起点。你可能会问：这些事，真的是一个人干的吗？说实话，大概率不是。伏羲更像是一个时代的代号。",
+      "spoken": "这俩人加在一起，才是完整的文明起点。你可能会问：这些事，真的是一个人干的吗？说实话，大概率不是。伏羲更像是一个时代的代号。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\031-b080c33ea5.tight.wav",
+      "start": 315.8995,
+      "duration": 9.1008,
+      "raw_duration": 12.7208,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\031-b080c33ea5.wav"
+    },
+    {
+      "index": 32,
+      "text": "那个时代的先民，经过几百年甚至上千年的摸索，逐渐积累了这些技术和制度。后人把这些功劳，全记在了一个人头上，这个人就叫伏羲。",
+      "spoken": "那个时代的先民，经过几百年甚至上千年的摸索，逐渐积累了这些技术和制度。后人把这些功劳，全记在了一个人头上，这个人就叫伏羲。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\032-21f33f91ec.tight.wav",
+      "start": 325.0203,
+      "duration": 9.2071,
+      "raw_duration": 11.5071,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\032-21f33f91ec.wav"
+    },
+    {
+      "index": 33,
+      "text": "但这恰恰说明了一件事：伏羲在中国人心里的地位，不是一个皇帝的地位，而是一个文明符号的地位。你说他是皇帝？他那个时代连国家都没有。",
+      "spoken": "但这恰恰说明了一件事：伏羲在中国人心里的地位，不是一个皇帝的地位，而是一个文明符号的地位。你说他是皇帝？他那个时代连国家都没有。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\033-7a163cae51.tight.wav",
+      "start": 334.2475,
+      "duration": 9.4926,
+      "raw_duration": 13.3526,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\033-7a163cae51.wav"
+    },
+    {
+      "index": 34,
+      "text": "他就是一个大部落的首领，或者说，一个大部落联盟的首席。但为什么后人把他排在三皇五帝的第一位？因为他干的事，是从零到一。后面所有的皇帝，干的都是从一到一百。",
+      "spoken": "他就是一个大部落的首领，或者说，一个大部落联盟的首席。但为什么后人把他排在三皇五帝的第一位？因为他干的事，是从零到一。后面所有的皇帝，干的都是从一到一百。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\034-49f15bf4b7.tight.wav",
+      "start": 343.76,
+      "duration": 11.6361,
+      "raw_duration": 14.8661,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\034-49f15bf4b7.wav"
+    },
+    {
+      "index": 35,
+      "text": "从一到一百当然也很厉害，但从零到一，才是最难的。秦始皇统一六国，很牛。但他是在周朝的基础上统一的。刘邦建立汉朝，很牛。但他是在秦朝的基础上建立的。但伏羲呢？",
+      "spoken": "从一到一百当然也很厉害，但从零到一，才是最难的。秦始皇统一六国，很牛。但他是在周朝的基础上统一的。刘邦建立汉朝，很牛。但他是在秦朝的基础上建立的。但伏羲呢？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\035-7f759b3410.tight.wav",
+      "start": 355.4161,
+      "duration": 12.7688,
+      "raw_duration": 16.6888,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\035-7f759b3410.wav"
+    },
+    {
+      "index": 36,
+      "text": "他前面什么都没有。没有文字，没有制度，没有技术。他是从一片空白里，硬生生画出了第一笔。这就像什么？",
+      "spoken": "他前面什么都没有。没有文字，没有制度，没有技术。他是从一片空白里，硬生生画出了第一笔。这就像什么？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\036-aa9353e4cc.tight.wav",
+      "start": 368.2049,
+      "duration": 7.7757,
+      "raw_duration": 10.1257,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\036-aa9353e4cc.wav"
+    },
+    {
+      "index": 37,
+      "text": "就像你玩一个开放世界游戏，所有人都在砍树建房子，突然有一个人开始琢磨：我能不能在树上刻个字？我能不能用绳子编个网？我能不能规定一下谁跟谁住一起？",
+      "spoken": "就像你玩一个开放世界游戏，所有人都在砍树建房子，突然有一个人开始琢磨：我能不能在树上刻个字？我能不能用绳子编个网？我能不能规定一下谁跟谁住一起？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\037-53fec12008.tight.wav",
+      "start": 376.0005,
+      "duration": 10.4392,
+      "raw_duration": 12.8692,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\037-53fec12008.wav"
+    },
+    {
+      "index": 38,
+      "text": "这个人就是伏羲。你现在每天用的手机、电脑、互联网，底层都是二进制。而二进制的老祖宗，就是伏羲画的那两条线。",
+      "spoken": "这个人就是伏羲。你现在每天用的手机、电脑、互联网，底层都是二进制。而二进制的老祖宗，就是伏羲画的那两条线。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\038-86c95d68b2.tight.wav",
+      "start": 386.4597,
+      "duration": 7.8556,
+      "raw_duration": 10.3556,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\038-86c95d68b2.wav"
+    },
+    {
+      "index": 39,
+      "text": "你现在每天遵守的婚姻制度、家庭观念、财产意识，追根溯源，就是伏羲定的那张鹿皮。你现在每天看的日历、二十四节气，最早也是伏羲开始观察日月运行定下来的。",
+      "spoken": "你现在每天遵守的婚姻制度、家庭观念、财产意识，追根溯源，就是伏羲定的那张鹿皮。你现在每天看的日历、二十四节气，最早也是伏羲开始观察日月运行定下来的。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\039-8b7b5277af.tight.wav",
+      "start": 394.3353,
+      "duration": 11.4415,
+      "raw_duration": 13.6715,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\039-8b7b5277af.wav"
+    },
+    {
+      "index": 40,
+      "text": "甚至你今天去算命，算命先生跟你说的那套东西，也是伏羲画的那八条线。你说你跟他没关系？你每天都活在他六千年的遗产里。我有时候觉得，我们这代人特别可怜。",
+      "spoken": "甚至你今天去算命，算命先生跟你说的那套东西，也是伏羲画的那八条线。你说你跟他没关系？你每天都活在他六千年的遗产里。我有时候觉得，我们这代人特别可怜。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\040-b03eb0c9bf.tight.wav",
+      "start": 405.7967,
+      "duration": 12.5571,
+      "raw_duration": 17.0271,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\040-b03eb0c9bf.wav"
+    },
+    {
+      "index": 41,
+      "text": "天天忙着上班下班，还贷养娃，觉得这些古人离我们特别远。",
+      "spoken": "天天忙着上班下班，还贷养娃，觉得这些古人离我们特别远。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\041-bc08743ad7.tight.wav",
+      "start": 418.3739,
+      "duration": 4.4896,
+      "raw_duration": 5.5696,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\041-bc08743ad7.wav"
+    },
+    {
+      "index": 42,
+      "text": "但你仔细想想，你现在遵循的每一条社会规则，你习以为常的每一个生活习惯，背后都有一个几千年前的人，在某个山洞里想了一晚上，然后决定以后就这么着吧。",
+      "spoken": "但你仔细想想，你现在遵循的每一条社会规则，你习以为常的每一个生活习惯，背后都有一个几千年前的人，在某个山洞里想了一晚上，然后决定以后就这么着吧。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\042-1f692eeb5f.tight.wav",
+      "start": 422.8835,
+      "duration": 10.6023,
+      "raw_duration": 13.3223,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\042-1f692eeb5f.wav"
+    },
+    {
+      "index": 43,
+      "text": "伏羲就是那个第一个说以后就这么着吧的人。行，不扯远了。我是艾伦，遛狗去了，白了个白。",
+      "spoken": "伏羲就是那个第一个说以后就这么着吧的人。行，不扯远了。我是艾伦，遛狗去了，白了个白。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\043-53af991d2b.tight.wav",
+      "start": 433.5057,
+      "duration": 6.1424,
+      "raw_duration": 7.6424,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\043-53af991d2b.wav"
+    }
+  ]
+}

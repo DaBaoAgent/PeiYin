@@ -1,0 +1,595 @@
+{
+  "fingerprint": "72c3f780c8",
+  "preset": "dabao",
+  "voice_id": "dabao",
+  "voice": "dabao (GPT-SoVITS 26E ref / v2 zero-shot)",
+  "model": "gpt-sovits-v2",
+  "split": "cut1",
+  "speed": 0.95,
+  "sampling": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 15,
+    "seed": 20261020,
+    "repetition_penalty": 1.35
+  },
+  "duration": 213.15712,
+  "speakFixes": [
+    [
+      "〇",
+      "零"
+    ],
+    [
+      "100",
+      "一百"
+    ],
+    [
+      "3D",
+      "三低"
+    ],
+    [
+      "刘琮出降",
+      "刘琮出祥"
+    ],
+    [
+      "出降",
+      "出祥"
+    ],
+    [
+      "张昭主降",
+      "张昭主祥"
+    ],
+    [
+      "不战而降",
+      "不战而祥"
+    ],
+    [
+      "望风而降",
+      "望风而祥"
+    ],
+    [
+      "闻风而降",
+      "闻风而祥"
+    ],
+    [
+      "束手而降",
+      "束手而祥"
+    ],
+    [
+      "开城而降",
+      "开城而祥"
+    ],
+    [
+      "举城而降",
+      "举城而祥"
+    ],
+    [
+      "率众而降",
+      "率众而祥"
+    ],
+    [
+      "弃城而降",
+      "弃城而祥"
+    ],
+    [
+      "兵败而降",
+      "兵败而祥"
+    ],
+    [
+      "势穷而降",
+      "势穷而祥"
+    ],
+    [
+      "献城而降",
+      "献城而祥"
+    ],
+    [
+      "荆州降兵",
+      "荆州祥兵"
+    ],
+    [
+      "纳降",
+      "纳祥"
+    ],
+    [
+      "受降",
+      "受祥"
+    ],
+    [
+      "归降",
+      "归祥"
+    ],
+    [
+      "劝降",
+      "劝祥"
+    ],
+    [
+      "招降",
+      "招祥"
+    ],
+    [
+      "请降",
+      "请祥"
+    ],
+    [
+      "乞降",
+      "乞祥"
+    ],
+    [
+      "降将",
+      "祥将"
+    ],
+    [
+      "降兵",
+      "祥兵"
+    ],
+    [
+      "降者",
+      "祥者"
+    ],
+    [
+      "降表",
+      "祥表"
+    ],
+    [
+      "降书",
+      "祥书"
+    ],
+    [
+      "降于魏",
+      "祥于魏"
+    ],
+    [
+      "降于吴",
+      "祥于吴"
+    ],
+    [
+      "降于汉",
+      "祥于汉"
+    ],
+    [
+      "降于曹",
+      "祥于曹"
+    ],
+    [
+      "降于刘",
+      "祥于刘"
+    ],
+    [
+      "降于袁",
+      "祥于袁"
+    ],
+    [
+      "降于孙",
+      "祥于孙"
+    ],
+    [
+      "降于晋",
+      "祥于晋"
+    ],
+    [
+      "降魏",
+      "祥魏"
+    ],
+    [
+      "降吴",
+      "祥吴"
+    ],
+    [
+      "降汉",
+      "祥汉"
+    ],
+    [
+      "降曹",
+      "祥曹"
+    ],
+    [
+      "降刘",
+      "祥刘"
+    ],
+    [
+      "降袁",
+      "祥袁"
+    ],
+    [
+      "降孙",
+      "祥孙"
+    ],
+    [
+      "降晋",
+      "祥晋"
+    ],
+    [
+      "诈降",
+      "诈祥"
+    ],
+    [
+      "投降",
+      "投祥"
+    ],
+    [
+      "调起来也快",
+      "吊起来也快"
+    ],
+    [
+      "兵和粮调得快",
+      "兵和粮吊得快"
+    ],
+    [
+      "几千乘",
+      "几千胜"
+    ],
+    [
+      "许都",
+      "许督"
+    ],
+    [
+      "中牟",
+      "中木"
+    ],
+    [
+      "荀彧",
+      "荀玉"
+    ],
+    [
+      "张郃",
+      "张合"
+    ],
+    [
+      "乐进",
+      "岳进"
+    ],
+    [
+      "单于",
+      "蝉于"
+    ],
+    [
+      "阏氏",
+      "胭脂"
+    ],
+    [
+      "月氏",
+      "月支"
+    ],
+    [
+      "龟兹",
+      "秋慈"
+    ],
+    [
+      "吐蕃",
+      "土播"
+    ],
+    [
+      "大宛",
+      "大渊"
+    ],
+    [
+      "身毒",
+      "元毒"
+    ],
+    [
+      "并州",
+      "冰州"
+    ],
+    [
+      "兖州",
+      "演州"
+    ],
+    [
+      "邺城",
+      "夜城"
+    ],
+    [
+      "犍为",
+      "前为"
+    ],
+    [
+      "涪城",
+      "扶城"
+    ],
+    [
+      "葭萌",
+      "家萌"
+    ],
+    [
+      "猇亭",
+      "消亭"
+    ],
+    [
+      "濡须",
+      "如须"
+    ],
+    [
+      "长坂坡",
+      "常坂坡"
+    ],
+    [
+      "夏侯惇",
+      "夏侯蹲"
+    ],
+    [
+      "许褚",
+      "许楚"
+    ],
+    [
+      "沮授",
+      "举授"
+    ],
+    [
+      "审配",
+      "沈配"
+    ],
+    [
+      "淳于琼",
+      "纯于琼"
+    ],
+    [
+      "麴义",
+      "屈义"
+    ],
+    [
+      "蹋顿",
+      "踏顿"
+    ],
+    [
+      "六安",
+      "路安"
+    ],
+    [
+      "亳州",
+      "博州"
+    ],
+    [
+      "降卒",
+      "祥卒"
+    ],
+    [
+      "前线一降",
+      "前线一祥"
+    ],
+    [
+      "斩将",
+      "斩匠"
+    ],
+    [
+      "守将",
+      "守匠"
+    ],
+    [
+      "倒腾",
+      "捣腾"
+    ],
+    [
+      "炸锅",
+      "闸锅"
+    ],
+    [
+      "任何一步错都是死；袁绍那边",
+      "任何一步错都是死。袁绍那边"
+    ],
+    [
+      "是每一步都慢半拍：救乌巢慢",
+      "是每一步都慢半拍。救乌巢慢"
+    ]
+  ],
+  "tighten": {
+    "min_gap_ms": 150,
+    "keep_gap_ms": 100,
+    "silence_db": -40.0,
+    "gate_db": -33.0,
+    "gate_floor": 0.3
+  },
+  "script": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\朱元璋_全篇.txt",
+  "chunks": [
+    {
+      "index": 1,
+      "text": "二十五岁之前，他要饭。四十岁那年，他当了皇帝。历史上这么干成的，就他一个。你说刘邦？刘邦造反前是个亭长，相当于现在街道办治保主任，吃公家饭的。李渊？",
+      "spoken": "二十五岁之前，他要饭。四十岁那年，他当了皇帝。历史上这么干成的，就他一个。你说刘邦？刘邦造反前是个亭长，相当于现在街道办治保主任，吃公家饭的。李渊？",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-b5409031d3.tight.wav",
+      "start": 0.0,
+      "duration": 12.4609,
+      "raw_duration": 17.0209,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-b5409031d3.wav"
+    },
+    {
+      "index": 2,
+      "text": "唐高祖，那是北周贵族后裔，太原留守，封唐国公。李世民、赵匡胤，那都是将军或者贵族。就朱元璋。他是真的，开局一个碗。一三四四年，淮北大旱。",
+      "spoken": "唐高祖，那是北周贵族后裔，太原留守，封唐国公。李世民、赵匡胤，那都是将军或者贵族。就朱元璋。他是真的，开局一个碗。一三四四年，淮北大旱。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-ec98742555.tight.wav",
+      "start": 12.4809,
+      "duration": 11.2044,
+      "raw_duration": 14.2144,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-ec98742555.wav"
+    },
+    {
+      "index": 3,
+      "text": "紧接着蝗灾，蝗虫把剩下那点庄稼啃得干干净净。然后是瘟疫。朱元璋家在安徽凤阳。那半个月里，他父亲死了，大哥死了，母亲死了。",
+      "spoken": "紧接着蝗灾，蝗虫把剩下那点庄稼啃得干干净净。然后是瘟疫。朱元璋家在安徽凤阳。那半个月里，他父亲死了，大哥死了，母亲死了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-5447a3f8da.tight.wav",
+      "start": 23.7052,
+      "duration": 9.8852,
+      "raw_duration": 12.7252,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-5447a3f8da.wav"
+    },
+    {
+      "index": 4,
+      "text": "一个十七岁的少年，眼睁睁看着家里人在自己面前一个接一个咽气。最惨的是什么？他连埋葬亲人的地都没有。他家是佃农，地是地主的。有个地主看他们可怜，给了一小块地。",
+      "spoken": "一个十七岁的少年，眼睁睁看着家里人在自己面前一个接一个咽气。最惨的是什么？他连埋葬亲人的地都没有。他家是佃农，地是地主的。有个地主看他们可怜，给了一小块地。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-fb22808304.tight.wav",
+      "start": 33.6104,
+      "duration": 11.7953,
+      "raw_duration": 15.3253,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-fb22808304.wav"
+    },
+    {
+      "index": 5,
+      "text": "他和二哥这才把爹妈哥哥埋了。这件事，他记了一辈子。后来他当了皇帝，写御制皇陵碑，写这件事的时候，用了八个字。殡无棺椁，被体恶裳。",
+      "spoken": "他和二哥这才把爹妈哥哥埋了。这件事，他记了一辈子。后来他当了皇帝，写御制皇陵碑，写这件事的时候，用了八个字。殡无棺椁，被体恶裳。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-5887f6a12e.tight.wav",
+      "start": 45.4257,
+      "duration": 10.3103,
+      "raw_duration": 12.9403,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-5887f6a12e.wav"
+    },
+    {
+      "index": 6,
+      "text": "连口棺材都没有，身上穿的还是破衣服。家里人死绝了，他没地方去，就进了皇觉寺当和尚。和尚也没当几天。",
+      "spoken": "连口棺材都没有，身上穿的还是破衣服。家里人死绝了，他没地方去，就进了皇觉寺当和尚。和尚也没当几天。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-6d430ca598.tight.wav",
+      "start": 55.7559,
+      "duration": 7.9829,
+      "raw_duration": 10.1529,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-6d430ca598.wav"
+    },
+    {
+      "index": 7,
+      "text": "寺庙也没粮了，老和尚把徒弟们都赶出去，说你们自己云游化缘去吧。说白了就是：出门要饭。这一年，他十七岁。他穿着破烂僧袍，拿着一个瓦钵，在淮西一带走了三年。",
+      "spoken": "寺庙也没粮了，老和尚把徒弟们都赶出去，说你们自己云游化缘去吧。说白了就是：出门要饭。这一年，他十七岁。他穿着破烂僧袍，拿着一个瓦钵，在淮西一带走了三年。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-8bda01ba8a.tight.wav",
+      "start": 63.7588,
+      "duration": 12.3907,
+      "raw_duration": 15.7907,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-8bda01ba8a.wav"
+    },
+    {
+      "index": 8,
+      "text": "今天在这个村子讨口粥，明天在那个破庙凑合一宿。被狗追过，被地主家的狗咬过，饿晕在路边过。这三年，他走遍了安徽、河南的很多地方。",
+      "spoken": "今天在这个村子讨口粥，明天在那个破庙凑合一宿。被狗追过，被地主家的狗咬过，饿晕在路边过。这三年，他走遍了安徽、河南的很多地方。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-7058557b72.tight.wav",
+      "start": 76.1695,
+      "duration": 7.1061,
+      "raw_duration": 9.3661,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-7058557b72.wav"
+    },
+    {
+      "index": 9,
+      "text": "他看到了底层人是怎么活的，看到了贪官污吏是怎么鱼肉百姓的，看到了元朝的天下是怎么烂透的。这三年要饭，就是他的社会大学。",
+      "spoken": "他看到了底层人是怎么活的，看到了贪官污吏是怎么鱼肉百姓的，看到了元朝的天下是怎么烂透的。这三年要饭，就是他的社会大学。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-0b92d7131a.tight.wav",
+      "start": 83.2956,
+      "duration": 9.4408,
+      "raw_duration": 11.4508,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-0b92d7131a.wav"
+    },
+    {
+      "index": 10,
+      "text": "二十五岁那年，他小时候放牛的伙伴汤和，给他写了封信。信上就一个意思：我在红巾军里当千户了，你来吧，咱们一起干。他犹豫过。后来听说有人知道这封信，要去告密。",
+      "spoken": "二十五岁那年，他小时候放牛的伙伴汤和，给他写了封信。信上就一个意思：我在红巾军里当千户了，你来吧，咱们一起干。他犹豫过。后来听说有人知道这封信，要去告密。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-878cfe2541.tight.wav",
+      "start": 92.7564,
+      "duration": 11.3818,
+      "raw_duration": 14.8018,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-878cfe2541.wav"
+    },
+    {
+      "index": 11,
+      "text": "他算了一卦，卦象说：跑也是死，反也是死，不如反。他就去郭子兴的队伍里报到了。从那以后，他像开了挂一样。作战勇敢，不贪财，不居功，脑子清楚。",
+      "spoken": "他算了一卦，卦象说：跑也是死，反也是死，不如反。他就去郭子兴的队伍里报到了。从那以后，他像开了挂一样。作战勇敢，不贪财，不居功，脑子清楚。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-d53cf0511b.tight.wav",
+      "start": 104.1583,
+      "duration": 11.0376,
+      "raw_duration": 14.3176,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-d53cf0511b.wav"
+    },
+    {
+      "index": 12,
+      "text": "郭子兴把养女马氏嫁给他，就是后来的马皇后。郭子兴死后，他接管了部队。听了一个叫朱升的老秀才的话，九个字：高筑墙，广积粮，缓称王。",
+      "spoken": "郭子兴把养女马氏嫁给他，就是后来的马皇后。郭子兴死后，他接管了部队。听了一个叫朱升的老秀才的话，九个字：高筑墙，广积粮，缓称王。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-9626f45a81.tight.wav",
+      "start": 115.2159,
+      "duration": 10.5872,
+      "raw_duration": 13.7472,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-9626f45a81.wav"
+    },
+    {
+      "index": 13,
+      "text": "别人都着急称王称霸的时候，他默默攒粮食、修城墙、练士兵。一三六八年，四十岁，他在南京称帝。同年，北伐大军攻破大都。",
+      "spoken": "别人都着急称王称霸的时候，他默默攒粮食、修城墙、练士兵。一三六八年，四十岁，他在南京称帝。同年，北伐大军攻破大都。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-5ca46265f4.tight.wav",
+      "start": 125.8231,
+      "duration": 10.2863,
+      "raw_duration": 13.6963,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-5ca46265f4.wav"
+    },
+    {
+      "index": 14,
+      "text": "元朝那个骑着马进中原的游牧王朝，被他赶回了草原。但你要是觉得，他当了皇帝以后就过上好日子了，那你就天真了。他当了三十一年皇帝，每天批奏折批到凌晨。",
+      "spoken": "元朝那个骑着马进中原的游牧王朝，被他赶回了草原。但你要是觉得，他当了皇帝以后就过上好日子了，那你就天真了。他当了三十一年皇帝，每天批奏折批到凌晨。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-51656d5337.tight.wav",
+      "start": 136.1293,
+      "duration": 11.1149,
+      "raw_duration": 13.5649,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-51656d5337.wav"
+    },
+    {
+      "index": 15,
+      "text": "因为他不信任任何人。他恨贪官。他定下规矩，官员贪六十两银子，就剥皮实草，把人皮剥下来，塞上草，挂在衙门旁边，给下一任官员看。他杀功臣。",
+      "spoken": "因为他不信任任何人。他恨贪官。他定下规矩，官员贪六十两银子，就剥皮实草，把人皮剥下来，塞上草，挂在衙门旁边，给下一任官员看。他杀功臣。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-acdb341163.tight.wav",
+      "start": 147.2642,
+      "duration": 10.6139,
+      "raw_duration": 13.4339,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-acdb341163.wav"
+    },
+    {
+      "index": 16,
+      "text": "胡惟庸那案子，杀了三万多人。蓝玉那案子，又杀了一万五。跟着他打天下的老兄弟，几乎被他杀光了。为什么这么狠？他亲眼见过，农民是怎么被贪官逼到造反的。",
+      "spoken": "胡惟庸那案子，杀了三万多人。蓝玉那案子，又杀了一万五。跟着他打天下的老兄弟，几乎被他杀光了。为什么这么狠？他亲眼见过，农民是怎么被贪官逼到造反的。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-79e4c9941e.tight.wav",
+      "start": 157.8981,
+      "duration": 10.8094,
+      "raw_duration": 14.6994,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-79e4c9941e.wav"
+    },
+    {
+      "index": 17,
+      "text": "他也太清楚，手下那帮打天下的将军，一旦自己死了，是个什么货色。吃过那种苦的人，当了皇帝以后，看谁都像贪官，看谁都像要反。有一件事我印象很深。",
+      "spoken": "他也太清楚，手下那帮打天下的将军，一旦自己死了，是个什么货色。吃过那种苦的人，当了皇帝以后，看谁都像贪官，看谁都像要反。有一件事我印象很深。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-001773f5d1.tight.wav",
+      "start": 168.7275,
+      "duration": 10.9341,
+      "raw_duration": 13.4341,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-001773f5d1.wav"
+    },
+    {
+      "index": 18,
+      "text": "他当皇帝之后，每天早饭就吃点蔬菜，喝碗粥。他跟身边人说，我当年要饭的时候，这都吃不上。他没忘。哪怕后来坐拥整个天下，他还是那个凤阳农村出来的朱重八。",
+      "spoken": "他当皇帝之后，每天早饭就吃点蔬菜，喝碗粥。他跟身边人说，我当年要饭的时候，这都吃不上。他没忘。哪怕后来坐拥整个天下，他还是那个凤阳农村出来的朱重八。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-e90877d7ef.tight.wav",
+      "start": 179.6816,
+      "duration": 12.0617,
+      "raw_duration": 16.0817,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-e90877d7ef.wav"
+    },
+    {
+      "index": 19,
+      "text": "中国历史上那么多皇帝，出身比他高的，一抓一大把。但真正从最底层一路爬到最顶端，还能记着当年自己要过饭的，就他一个。他当然不是什么完人。",
+      "spoken": "中国历史上那么多皇帝，出身比他高的，一抓一大把。但真正从最底层一路爬到最顶端，还能记着当年自己要过饭的，就他一个。他当然不是什么完人。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-02fec8f41c.tight.wav",
+      "start": 191.7633,
+      "duration": 9.5991,
+      "raw_duration": 11.3791,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-02fec8f41c.wav"
+    },
+    {
+      "index": 20,
+      "text": "杀功臣，搞专制，给子孙定的规矩把明朝框得死死的。但他知道老百姓要什么。这事他门儿清，因为他自己就是从老百姓里爬出来的。行，不唠了。",
+      "spoken": "杀功臣，搞专制，给子孙定的规矩把明朝框得死死的。但他知道老百姓要什么。这事他门儿清，因为他自己就是从老百姓里爬出来的。行，不唠了。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-63fc0db953.tight.wav",
+      "start": 201.3824,
+      "duration": 9.8314,
+      "raw_duration": 12.9114,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-63fc0db953.wav"
+    },
+    {
+      "index": 21,
+      "text": "我是艾伦，遛狗去了，拜了个拜。",
+      "spoken": "我是艾伦，遛狗去了，拜了个拜。",
+      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-55a78dc085.tight.wav",
+      "start": 211.2338,
+      "duration": 1.9233,
+      "raw_duration": 3.1733,
+      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-55a78dc085.wav"
+    }
+  ]
+}
