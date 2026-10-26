@@ -1,0 +1,4 @@
+[submodule "GPT-SoVITS"]
+	path = GPT-SoVITS
+	url = https://github.com/DaBaoAgent/gpt-sovits.git
+	branch = master
