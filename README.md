@@ -25,7 +25,7 @@
 本项目是一套**可复制的历史口播内容生产线**，核心资产不是单篇视频，而是：
 
 1. **口播稿模板化**：钩子开头 + 分节讲述 + 现代比喻 + 金句 + 固定结尾，每篇 2500~3500 字；
-2. **克隆配音参数化**：dabao 克隆音色（GPT-SoVITS v2 zero-shot），参数经 4 轮审核定稿，音色稳定可复现；
+2. **克隆配音参数化**：dabao 克隆音色（GPT-SoVITS v5turbo zero-shot），参数经多轮审核定稿，音色稳定可复现；
 3. **批量化**：PowerShell 批量脚本一键跑多篇配音，日志留痕，断点可查；
 4. **方法论沉淀**：对标爆款拆解、钩子方案库、AI 味审核清单、误读修正表，随产随积累。
 
@@ -37,6 +37,8 @@
 PeiYin/
 ├── README.md                # 本文件：项目总览
 ├── .gitignore               # 忽略音视频产物与日志（约 3.5GB，不入库）
+├── .gitmodules              # GPT-SoVITS 配音引擎（submodule）
+├── GPT-SoVITS/              # 配音引擎：tts_server.py + dabao_tts.py + 音色预设
 ├── docs/                    # 方法论文档（怎么写稿、怎么配好音）
 │   ├── 管线说明.md            # 7 步生产流程 + 工具链 + 已知事项
 │   ├── 口播稿规范.md          # 写作骨架与风格红线
@@ -47,6 +49,7 @@ PeiYin/
 │   ├── 参考-旧号风格分析.md    # 旧号（子非秋月）风格分析（反面参考）
 │   └── 对标逐字稿/            # 11 个对标视频逐字稿 + ASR 任务映射
 ├── scripts/                 # 自动化脚本
+│   ├── setup.ps1            # 新机器一键初始化（submodule + 权重 + venv + 冒烟测试）
 │   ├── run_dabao_batch.ps1  # 批量配音脚本（模板，改任务表即用）
 │   └── fetch_all_asr.ps1    # 拉取对标视频 ASR 逐字稿
 ├── 出稿/                     # 成品交付目录（每集一个文件夹）
@@ -74,9 +77,37 @@ PeiYin/
 
 ### 环境要求
 
-- Windows + PowerShell 7（`pwsh`）
-- 本机 GPT-SoVITS（api_v2 @ `127.0.0.1:9880`，GPU 推理）
-- dabao 克隆音色 preset：`D:\GPT-SoVITS\voices\dabao\preset.json`
+- Windows 10/11 + PowerShell（Windows PowerShell 5.1 或 PowerShell 7 / `pwsh` 均可）
+- Git + Git LFS（模型、参考音色与可选 runtime 走 LFS，约 2.4GB）
+- Python 3.11（`py -3.11` 可用；脚本会强制创建 3.11 venv）
+- ffmpeg / ffprobe（引擎 `runtime/` 自带或装在 PATH 上）
+- GPT-SoVITS submodule（克隆后在 `GPT-SoVITS/`，含 tts_server.py + dabao_tts.py）
+- dabao 克隆音色 preset：`GPT-SoVITS/voices/dabao/preset.json`
+
+### 克隆与初始化（新电脑）
+
+```powershell
+git clone --recurse-submodules https://github.com/DaBaoAgent/PeiYin.git
+cd PeiYin
+pwsh -File .\scripts\setup.ps1 -PipIndexUrl https://repo.huaweicloud.com/repository/pypi/simple/
+```
+
+`setup.ps1` 会依次完成：初始化 submodule → 校验/拉取 LFS 模型与音色资源 → 创建
+`GPT-SoVITS/.venv`（Python 3.11）→ 安装 torch 2.6 CPU 与依赖 → 启动
+`tts_server` 做健康检查。没装 `pwsh` 时改用：
+`powershell -ExecutionPolicy Bypass -File .\scripts\setup.ps1 -PipIndexUrl https://repo.huaweicloud.com/repository/pypi/simple/`。
+
+- 国内网络访问 GitHub LFS 慢时，可先跳过 LFS 大文件再克隆，由 setup 按需补拉：
+  `$env:GIT_LFS_SKIP_SMUDGE="1"; git clone --recurse-submodules https://github.com/DaBaoAgent/PeiYin.git; Remove-Item Env:GIT_LFS_SKIP_SMUDGE`
+- 或从已有安装复制权重：
+  `pwsh -File .\scripts\setup.ps1 -WeightsFrom D:\GPT-SoVITS`
+- pip 镜像按需更换：华为云 `https://repo.huaweicloud.com/repository/pypi/simple/`（推荐）、
+  清华 `https://pypi.tuna.tsinghua.edu.cn/simple`、阿里云
+  `https://mirrors.aliyun.com/pypi/simple/`。
+- torch CPU wheel 默认走交大镜像，失败会自动回退官方源；也可用
+  `-TorchIndexUrl https://download.pytorch.org/whl/cpu` 显式指定。
+- 老克隆未带 submodule 时，先执行 `git submodule update --init --recursive` 再跑 setup。
+- 只想跳过最后的模型加载测试可加 `-SkipSmoke`。
 
 ### 1. 写一篇稿
 
@@ -89,10 +120,10 @@ PeiYin/
 ### 3. 单篇配音
 
 ```powershell
-D:\GPT-SoVITS\dabao_tts.cmd --text-file <全篇.txt> --out <出稿\0XX_人物名\配音.wav> --force
+GPT-SoVITS\dabao_tts.cmd --text-file <全篇.txt> --out <出稿\0XX_人物名\配音.wav> --force
 ```
 
-自动完成：切段（≤78 字）→ 逐段合成 → 静音压缩 → 噪声门 → 拼接 → 输出 `配音.wav` + `配音.json` + 分段音频。
+自动完成：切段（≤150 字）→ 逐段合成 → 静音压缩 → 噪声门 → 拼接 → 输出 `配音.wav` + `配音.json` + 分段音频。
 
 ### 4. 批量配音
 
@@ -114,7 +145,7 @@ graph LR
     A[选人物<br/>反差优先] --> B[建目录<br/>出稿/0XX_人物名]
     B --> C[写口播稿.md<br/>七步骨架]
     C --> D[转纯文本<br/>workdir/tts]
-    D --> E[dabao_tts 配音<br/>v3 参数]
+    D --> E[dabao_tts 配音<br/>v5turbo 参数]
     E --> F[配音.wav + json<br/>+ 分段音频]
     F --> G[听审<br/>AI味审核清单]
     G --> H{通过?}
@@ -181,8 +212,8 @@ graph LR
 
 | 层 | 技术 |
 |---|---|
-| 配音 | GPT-SoVITS v2（zero-shot）· dabao 克隆音色 |
-| 批量 | PowerShell 7 脚本 |
+| 配音 | GPT-SoVITS v5turbo（zero-shot）· dabao 克隆音色 |
+| 批量 | PowerShell 5.1 / 7 脚本 |
 | 文档 | Markdown（GitHub 渲染 Mermaid 管线图） |
 | 内容源 | 11 个对标视频逐字稿（ASR）· 历史典籍 |
 
