@@ -17,6 +17,7 @@
 - [风格规范](#风格规范)
 - [技术栈](#技术栈)
 - [Roadmap](#roadmap)
+- [已封装为 lishi 技能](#已封装为-lishi-技能)
 - [授权说明](#授权说明)
 
 ## 项目简介
@@ -33,7 +34,7 @@
 ## 目录结构
 
 ```text
-lishi/
+PeiYin/
 ├── README.md                # 本文件：项目总览
 ├── .gitignore               # 忽略音视频产物与日志（约 3.5GB，不入库）
 ├── docs/                    # 方法论文档（怎么写稿、怎么配好音）
@@ -67,6 +68,8 @@ lishi/
     └── 旧批次脚本/           # 20261024 历史批次脚本
 ```
 
+> 注：整套流程已封装为 agent 技能 `lishi`，安装在本仓库之外：`C:\Users\Administrator\AppData\Local\Doubao\User Data\Default\.doubao\agent_mode\workspace\.user_skills\lishi\`，详见下文「已封装为 lishi 技能」。
+
 ## 快速开始
 
 ### 环境要求
@@ -94,7 +97,7 @@ D:\GPT-SoVITS\dabao_tts.cmd --text-file <全篇.txt> --out <出稿\0XX_人物名
 ### 4. 批量配音
 
 ```powershell
-cd D:\@kaifa\lishi
+cd D:\@kaifa\PeiYin
 .\scripts\run_dabao_batch.ps1
 ```
 
@@ -189,6 +192,15 @@ graph LR
 - [ ] 建立分镜/动画管线（`docs/` 预留方法论位置）
 - [ ] 每集发布后回填「数据表现 → 复盘」，反哺选题与钩子库
 - [ ] 可选：音频产物迁移 Git LFS 实现全量版本管理
+
+## 已封装为 lishi 技能
+
+整套生产线已封装为 agent 可执行技能 **lishi**，流程与参数与本文档一致，agent 可一键跑完整条线。
+
+- **技能安装位置（绝对路径）**：`C:\Users\Administrator\AppData\Local\Doubao\User Data\Default\.doubao\agent_mode\workspace\.user_skills\lishi\`
+- **触发方式**：agent 命中技能 description 即自动加载——例如"写一篇历史人物口播稿""给某人物跑 dabao 配音""批量配音""口播稿去 AI 味"等说法；技能正文是八步流程的精简命令版，照做即可。
+- **references 与 docs/ 的关系**：技能 `references/` 下 5 份方法论文档（管线说明 / 口播稿规范 / AI味审核清单 / 配音参数与音色 / 钩子方案库）是本仓库 `docs/` 的快照副本，内容一致；`docs/` 更新后以仓库为准，可回灌更新技能 references。
+- **批量脚本模板**：技能 `scripts/run_dabao_batch.ps1` 与本仓库 `scripts/run_dabao_batch.ps1` 一致；编辑任务表 `$jobs` 后在项目根目录运行，日志落 `workdir/logs/`。
 
 ## 授权说明
 

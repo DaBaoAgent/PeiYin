@@ -379,427 +379,427 @@
     "gate_db": -33.0,
     "gate_floor": 0.3
   },
-  "script": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\女娲_全篇.txt",
+  "script": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\女娲_全篇.txt",
   "chunks": [
     {
       "index": 1,
       "text": "你有没有想过一个问题：为什么中国神话里，造人的是个女的，不是男的？西方神话里，上帝造人，上帝是男的。普罗米修斯造人，普罗米修斯也是男的。",
       "spoken": "你有没有想过一个问题：为什么中国神话里，造人的是个女的，不是男的？西方神话里，上帝造人，上帝是男的。普罗米修斯造人，普罗米修斯也是男的。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-79b57b4f02.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-79b57b4f02.tight.wav",
       "start": 0.0,
       "duration": 9.9431,
       "raw_duration": 13.3031,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-79b57b4f02.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-79b57b4f02.wav"
     },
     {
       "index": 2,
       "text": "只有中国，造人的是女娲，一个女的。而且她不光造人，她还补天。天破了她补，人没了她造，世界乱了她收拾。你仔细想想，这像不像咱们每个人小时候那个妈？",
       "spoken": "只有中国，造人的是女娲，一个女的。而且她不光造人，她还补天。天破了她补，人没了她造，世界乱了她收拾。你仔细想想，这像不像咱们每个人小时候那个妈？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-1ff01e1861.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-1ff01e1861.tight.wav",
       "start": 9.9631,
       "duration": 11.3379,
       "raw_duration": 14.6479,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-1ff01e1861.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-1ff01e1861.wav"
     },
     {
       "index": 3,
       "text": "天塌下来有妈顶着，你饿了妈给你做饭，你闯祸了妈给你收拾。所以中国人管女娲叫人文之母。不是随便叫的。但我今天要跟你讲的，不是那些女娲捏泥人的童话。",
       "spoken": "天塌下来有妈顶着，你饿了妈给你做饭，你闯祸了妈给你收拾。所以中国人管女娲叫人文之母。不是随便叫的。但我今天要跟你讲的，不是那些女娲捏泥人的童话。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-53de45cd5b.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-53de45cd5b.tight.wav",
       "start": 21.3211,
       "duration": 10.9062,
       "raw_duration": 14.5462,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-53de45cd5b.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-53de45cd5b.wav"
     },
     {
       "index": 4,
       "text": "我要跟你讲的是，女娲这个人，或者说这个神，她到底干了什么，为什么中国人记了她七千年。这个故事你们都听过。女娲用黄土和泥，照着自己的样子捏小人。",
       "spoken": "我要跟你讲的是，女娲这个人，或者说这个神，她到底干了什么，为什么中国人记了她七千年。这个故事你们都听过。女娲用黄土和泥，照着自己的样子捏小人。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-e5aaaff232.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-e5aaaff232.tight.wav",
       "start": 32.2472,
       "duration": 10.6282,
       "raw_duration": 12.6782,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-e5aaaff232.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-e5aaaff232.wav"
     },
     {
       "index": 5,
       "text": "捏着捏着觉得太慢了，拿根绳子蘸着泥一甩，泥点子落地也变成了人。听着像童话是吧？但这个故事背后藏着一个特别重要的信息。什么信息？女娲那个时代，人类是母系社会。",
       "spoken": "捏着捏着觉得太慢了，拿根绳子蘸着泥一甩，泥点子落地也变成了人。听着像童话是吧？但这个故事背后藏着一个特别重要的信息。什么信息？女娲那个时代，人类是母系社会。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-f257653804.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-f257653804.tight.wav",
       "start": 42.8954,
       "duration": 13.7328,
       "raw_duration": 17.2428,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-f257653804.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-f257653804.wav"
     },
     {
       "index": 6,
       "text": "你想想，为什么造人的是女的？因为在那个时代，孩子只知其母不知其父。部落里最受尊敬的是女的，因为女的能生孩子，能延续部落。",
       "spoken": "你想想，为什么造人的是女的？因为在那个时代，孩子只知其母不知其父。部落里最受尊敬的是女的，因为女的能生孩子，能延续部落。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-8aa1c36cde.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-8aa1c36cde.tight.wav",
       "start": 56.6483,
       "duration": 9.0493,
       "raw_duration": 10.7093,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-8aa1c36cde.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-8aa1c36cde.wav"
     },
     {
       "index": 7,
       "text": "女娲造人这个神话，其实就是母系社会的集体记忆。后人把这段记忆编成了故事，说我们都是女娲用泥捏出来的。但你别觉得这是什么原始迷信。",
       "spoken": "女娲造人这个神话，其实就是母系社会的集体记忆。后人把这段记忆编成了故事，说我们都是女娲用泥捏出来的。但你别觉得这是什么原始迷信。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-b9dbe2e818.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-b9dbe2e818.tight.wav",
       "start": 65.7175,
       "duration": 10.1011,
       "raw_duration": 12.3011,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-b9dbe2e818.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-b9dbe2e818.wav"
     },
     {
       "index": 8,
       "text": "这个神话里有个特别深刻的东西：它承认了生命从哪来这件事。西方神话说上帝用亚当的肋骨造了夏娃。中国神话说女娲用泥捏了人。区别在哪？",
       "spoken": "这个神话里有个特别深刻的东西：它承认了生命从哪来这件事。西方神话说上帝用亚当的肋骨造了夏娃。中国神话说女娲用泥捏了人。区别在哪？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-b063a4ffef.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-b063a4ffef.tight.wav",
       "start": 75.8386,
       "duration": 10.1513,
       "raw_duration": 12.8913,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-b063a4ffef.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-b063a4ffef.wav"
     },
     {
       "index": 9,
       "text": "西方神话里，女人是男人的一部分。中国神话里，男人和女人都是女娲造的。女娲是独立的，她不依附于任何男人。这个区别，你细品。这个故事你们也听过。",
       "spoken": "西方神话里，女人是男人的一部分。中国神话里，男人和女人都是女娲造的。女娲是独立的，她不依附于任何男人。这个区别，你细品。这个故事你们也听过。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-d19861b707.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-d19861b707.tight.wav",
       "start": 86.0099,
       "duration": 10.5772,
       "raw_duration": 14.5572,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-d19861b707.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-d19861b707.wav"
     },
     {
       "index": 10,
       "text": "水神共工怒触不周山，天塌了个大窟窿，天河之水灌下来，地上猛兽横行，老百姓活不下去了。女娲干什么？她炼了五色石，把天补好了。",
       "spoken": "水神共工怒触不周山，天塌了个大窟窿，天河之水灌下来，地上猛兽横行，老百姓活不下去了。女娲干什么？她炼了五色石，把天补好了。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-b33689336d.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-b33689336d.tight.wav",
       "start": 96.6071,
       "duration": 9.489,
       "raw_duration": 11.489,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-b33689336d.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-b33689336d.wav"
     },
     {
       "index": 11,
       "text": "又斩了大龟的四脚，当四根柱子把天撑起来。还烧了芦苇灰，堵住了洪水。听着更像童话了是吧？但我给你翻译一下。这个神话到底在说什么？",
       "spoken": "又斩了大龟的四脚，当四根柱子把天撑起来。还烧了芦苇灰，堵住了洪水。听着更像童话了是吧？但我给你翻译一下。这个神话到底在说什么？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-7c82793f51.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-7c82793f51.tight.wav",
       "start": 106.1161,
       "duration": 9.5053,
       "raw_duration": 13.5253,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-7c82793f51.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-7c82793f51.wav"
     },
     {
       "index": 12,
       "text": "说的是远古时代，地球上经历了一次巨大的自然灾害。可能是大洪水，可能是陨石雨，可能是气候剧变。天崩地裂，洪水滔天。然后呢？",
       "spoken": "说的是远古时代，地球上经历了一次巨大的自然灾害。可能是大洪水，可能是陨石雨，可能是气候剧变。天崩地裂，洪水滔天。然后呢？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-65ac2adc1a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-65ac2adc1a.tight.wav",
       "start": 115.6414,
       "duration": 9.4986,
       "raw_duration": 11.4286,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-65ac2adc1a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-65ac2adc1a.wav"
     },
     {
       "index": 13,
       "text": "然后有一个伟大的女性部落首领，带领她的族人，熬过了这场灾难。她怎么熬的？烧石头，炼五色石，造船，大龟四脚撑天，治水，芦苇灰堵洪水。",
       "spoken": "然后有一个伟大的女性部落首领，带领她的族人，熬过了这场灾难。她怎么熬的？烧石头，炼五色石，造船，大龟四脚撑天，治水，芦苇灰堵洪水。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-94e0d450c0.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-94e0d450c0.tight.wav",
       "start": 125.16,
       "duration": 10.5522,
       "raw_duration": 13.6322,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-94e0d450c0.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-94e0d450c0.wav"
     },
     {
       "index": 14,
       "text": "后人把这段记忆编成了神话：女娲补天。你别觉得这是古人瞎编。你想想，全世界各民族的神话里，几乎都有大洪水的故事。西方有诺亚方舟，中国有女娲补天、大禹治水。",
       "spoken": "后人把这段记忆编成了神话：女娲补天。你别觉得这是古人瞎编。你想想，全世界各民族的神话里，几乎都有大洪水的故事。西方有诺亚方舟，中国有女娲补天、大禹治水。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-de11e0bda5.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-de11e0bda5.tight.wav",
       "start": 135.7322,
       "duration": 12.0682,
       "raw_duration": 14.3682,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-de11e0bda5.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-de11e0bda5.wav"
     },
     {
       "index": 15,
       "text": "这说明什么？说明几万年前，地球上真的经历过一场全球性的大洪水。各个民族都把这件事记了下来，只不过记录的方式不一样。西方人说：造个船躲起来。",
       "spoken": "这说明什么？说明几万年前，地球上真的经历过一场全球性的大洪水。各个民族都把这件事记了下来，只不过记录的方式不一样。西方人说：造个船躲起来。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-dc50de5b99.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-dc50de5b99.tight.wav",
       "start": 147.8204,
       "duration": 10.4274,
       "raw_duration": 13.4874,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-dc50de5b99.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-dc50de5b99.wav"
     },
     {
       "index": 16,
       "text": "中国人说：把天补好，把水治了，重新过日子。你看这文化差异，从神话里就看出来了。西方是逃避，中国是解决问题。你还记得伏羲定了嫁娶吗？",
       "spoken": "中国人说：把天补好，把水治了，重新过日子。你看这文化差异，从神话里就看出来了。西方是逃避，中国是解决问题。你还记得伏羲定了嫁娶吗？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-9e788244b6.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-9e788244b6.tight.wav",
       "start": 158.2678,
       "duration": 10.1175,
       "raw_duration": 13.2575,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-9e788244b6.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-9e788244b6.wav"
     },
     {
       "index": 17,
       "text": "其实那个嫁娶，更准确地说，是女娲和伏羲一起定的。神话里说，女娲和伏羲是兄妹，也是夫妻。天下只有他们两个人了，为了繁衍人类，他们必须结婚。",
       "spoken": "其实那个嫁娶，更准确地说，是女娲和伏羲一起定的。神话里说，女娲和伏羲是兄妹，也是夫妻。天下只有他们两个人了，为了繁衍人类，他们必须结婚。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-9e9ff679a0.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-9e9ff679a0.tight.wav",
       "start": 168.4053,
       "duration": 10.9041,
       "raw_duration": 13.6741,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-9e9ff679a0.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-9e9ff679a0.wav"
     },
     {
       "index": 18,
       "text": "但兄妹结婚这件事，当时他们自己也觉得不好意思。于是他们商量：咱们俩爬到两个山顶上，各自推一盘石磨下来。如果两盘石磨在山脚下合在一起，咱们就结婚。",
       "spoken": "但兄妹结婚这件事，当时他们自己也觉得不好意思。于是他们商量：咱们俩爬到两个山顶上，各自推一盘石磨下来。如果两盘石磨在山脚下合在一起，咱们就结婚。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-7e5e5019c3.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-7e5e5019c3.tight.wav",
       "start": 179.3294,
       "duration": 10.78,
       "raw_duration": 13.74,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-7e5e5019c3.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-7e5e5019c3.wav"
     },
     {
       "index": 19,
       "text": "结果两盘石磨真的合在了一起。这个故事你听着是不是有点扯？兄妹结婚？但它背后藏着一个重要的历史信息：在远古时代，人类确实经历过从群婚到对偶婚的转变。",
       "spoken": "结果两盘石磨真的合在了一起。这个故事你听着是不是有点扯？兄妹结婚？但它背后藏着一个重要的历史信息：在远古时代，人类确实经历过从群婚到对偶婚的转变。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-e5e7b090f9.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-e5e7b090f9.tight.wav",
       "start": 190.1294,
       "duration": 12.4548,
       "raw_duration": 15.6848,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-e5e7b090f9.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-e5e7b090f9.wav"
     },
     {
       "index": 20,
       "text": "从乱婚、群婚，到兄妹婚，再到族外婚。女娲和伏羲的故事，就是这个转变的记忆。而且你注意，神话里说女娲是神媒。什么叫神媒？就是掌管婚姻的神。",
       "spoken": "从乱婚、群婚，到兄妹婚，再到族外婚。女娲和伏羲的故事，就是这个转变的记忆。而且你注意，神话里说女娲是神媒。什么叫神媒？就是掌管婚姻的神。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-832d2a3900.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-832d2a3900.tight.wav",
       "start": 202.6042,
       "duration": 10.1182,
       "raw_duration": 14.1382,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-832d2a3900.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\020-832d2a3900.wav"
     },
     {
       "index": 21,
       "text": "中国人最早的婚姻制度，是女娲定的。她规定了谁能跟谁结婚，不能乱搞。这就是为什么后来中国人拜女娲，不光是求子，还要求婚姻美满。因为她是第一个管这个的。",
       "spoken": "中国人最早的婚姻制度，是女娲定的。她规定了谁能跟谁结婚，不能乱搞。这就是为什么后来中国人拜女娲，不光是求子，还要求婚姻美满。因为她是第一个管这个的。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-47f29ad78a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-47f29ad78a.tight.wav",
       "start": 212.7424,
       "duration": 11.2317,
       "raw_duration": 13.6717,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-47f29ad78a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\021-47f29ad78a.wav"
     },
     {
       "index": 22,
       "text": "女娲还发明了乐器。她用葫芦做笙，用竹管做簧。吹起来，嗡嗡响。你现在去河南、陕西一带的农村，还能看到一种叫笙的乐器，好几个竹管插在一个葫芦上，吹起来嗡嗡的。",
       "spoken": "女娲还发明了乐器。她用葫芦做笙，用竹管做簧。吹起来，嗡嗡响。你现在去河南、陕西一带的农村，还能看到一种叫笙的乐器，好几个竹管插在一个葫芦上，吹起来嗡嗡的。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\022-68c7165020.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\022-68c7165020.tight.wav",
       "start": 223.9941,
       "duration": 12.2756,
       "raw_duration": 15.5356,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\022-68c7165020.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\022-68c7165020.wav"
     },
     {
       "index": 23,
       "text": "据说就是女娲发明的。你说这有什么用？跟伏羲造琴一样，这是精神需求。当一个部落熬过了灾难，开始重建家园，他们就需要音乐。音乐是安抚人心最好的东西。",
       "spoken": "据说就是女娲发明的。你说这有什么用？跟伏羲造琴一样，这是精神需求。当一个部落熬过了灾难，开始重建家园，他们就需要音乐。音乐是安抚人心最好的东西。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\023-a4f07ef108.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\023-a4f07ef108.tight.wav",
       "start": 236.2897,
       "duration": 11.0479,
       "raw_duration": 14.6279,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\023-a4f07ef108.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\023-a4f07ef108.wav"
     },
     {
       "index": 24,
       "text": "而且你想想，洪水退了，天补好了，人活下来了。这时候部落里的人围着火堆，女娲吹起笙簧，大家跟着唱歌跳舞。这是什么？这是灾后重建的心理建设。",
       "spoken": "而且你想想，洪水退了，天补好了，人活下来了。这时候部落里的人围着火堆，女娲吹起笙簧，大家跟着唱歌跳舞。这是什么？这是灾后重建的心理建设。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\024-2be2af6b0d.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\024-2be2af6b0d.tight.wav",
       "start": 247.3576,
       "duration": 10.4861,
       "raw_duration": 13.9461,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\024-2be2af6b0d.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\024-2be2af6b0d.wav"
     },
     {
       "index": 25,
       "text": "中国人为什么这么重视礼乐？从女娲这里就开始了。灾难过后，第一件事不是庆祝，是用音乐抚平创伤，重新凝聚人心。说到这，你可能会问：女娲和伏羲到底是什么关系？",
       "spoken": "中国人为什么这么重视礼乐？从女娲这里就开始了。灾难过后，第一件事不是庆祝，是用音乐抚平创伤，重新凝聚人心。说到这，你可能会问：女娲和伏羲到底是什么关系？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\025-9b22d94499.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\025-9b22d94499.tight.wav",
       "start": 257.8637,
       "duration": 12.4948,
       "raw_duration": 15.8348,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\025-9b22d94499.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\025-9b22d94499.wav"
     },
     {
       "index": 26,
       "text": "神话里有好几个版本。一个版本说，他俩是兄妹。天下大洪水之后，就剩他们俩了，为了人类延续，兄妹结婚。这个版本在南方少数民族的传说里特别多。",
       "spoken": "神话里有好几个版本。一个版本说，他俩是兄妹。天下大洪水之后，就剩他们俩了，为了人类延续，兄妹结婚。这个版本在南方少数民族的传说里特别多。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\026-494361dfdd.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\026-494361dfdd.tight.wav",
       "start": 270.3785,
       "duration": 10.6943,
       "raw_duration": 13.6643,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\026-494361dfdd.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\026-494361dfdd.wav"
     },
     {
       "index": 27,
       "text": "另一个版本说，他俩是夫妻，都是三皇之一。一个管天，一个管地。一个造人，一个定制度。还有一个版本说，女娲是女希氏，是伏羲的妹妹，也是他的继承者。",
       "spoken": "另一个版本说，他俩是夫妻，都是三皇之一。一个管天，一个管地。一个造人，一个定制度。还有一个版本说，女娲是女希氏，是伏羲的妹妹，也是他的继承者。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\027-9dbd6bb492.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\027-9dbd6bb492.tight.wav",
       "start": 281.0927,
       "duration": 10.8918,
       "raw_duration": 15.4718,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\027-9dbd6bb492.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\027-9dbd6bb492.wav"
     },
     {
       "index": 28,
       "text": "伏羲死后，女娲当了首领。这三个版本其实不矛盾。它们加在一起，就是一段完整的历史记忆：远古时代，有一个强大的部落，首领是兄妹俩。",
       "spoken": "伏羲死后，女娲当了首领。这三个版本其实不矛盾。它们加在一起，就是一段完整的历史记忆：远古时代，有一个强大的部落，首领是兄妹俩。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\028-986f8d331a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\028-986f8d331a.tight.wav",
       "start": 292.0045,
       "duration": 9.9661,
       "raw_duration": 12.8961,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\028-986f8d331a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\028-986f8d331a.wav"
     },
     {
       "index": 29,
       "text": "哥哥伏羲负责搞技术、定制度、画八卦。妹妹女娲负责造人，繁衍部落，治水，应对灾难，定婚姻。两个人一前一后，或者一起，带领部落度过了最艰难的时代。",
       "spoken": "哥哥伏羲负责搞技术、定制度、画八卦。妹妹女娲负责造人，繁衍部落，治水，应对灾难，定婚姻。两个人一前一后，或者一起，带领部落度过了最艰难的时代。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\029-25a6c771bf.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\029-25a6c771bf.tight.wav",
       "start": 301.9906,
       "duration": 11.5396,
       "raw_duration": 14.9496,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\029-25a6c771bf.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\029-25a6c771bf.wav"
     },
     {
       "index": 30,
       "text": "后人把他们神化了，说他们是人首蛇身，说他们捏泥造人，说他们炼石补天。但剥掉神话的外壳，你看到的是什么？是两个伟大的部落首领，在几万年前，带领人类活了下来。",
       "spoken": "后人把他们神化了，说他们是人首蛇身，说他们捏泥造人，说他们炼石补天。但剥掉神话的外壳，你看到的是什么？是两个伟大的部落首领，在几万年前，带领人类活了下来。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\030-2e1a143137.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\030-2e1a143137.tight.wav",
       "start": 313.5502,
       "duration": 11.7998,
       "raw_duration": 15.0098,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\030-2e1a143137.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\030-2e1a143137.wav"
     },
     {
       "index": 31,
       "text": "你想想，世界上有那么多古代文明，古埃及、古巴比伦、古印度。他们的神话里，有几个女性能像女娲这样，地位这么高？",
       "spoken": "你想想，世界上有那么多古代文明，古埃及、古巴比伦、古印度。他们的神话里，有几个女性能像女娲这样，地位这么高？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\031-dc8486282f.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\031-dc8486282f.tight.wav",
       "start": 325.37,
       "duration": 8.5453,
       "raw_duration": 10.6553,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\031-dc8486282f.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\031-dc8486282f.wav"
     },
     {
       "index": 32,
       "text": "古希腊神话里，女性神不少，但大多是嫉妒、争宠、祸水的形象。赫拉是嫉妒的代表，阿佛洛狄忒是欲望的代表，雅典娜虽然聪明，但也是从宙斯脑袋里蹦出来的。",
       "spoken": "古希腊神话里，女性神不少，但大多是嫉妒、争宠、祸水的形象。赫拉是嫉妒的代表，阿佛洛狄忒是欲望的代表，雅典娜虽然聪明，但也是从宙斯脑袋里蹦出来的。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\032-88a5283f6a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\032-88a5283f6a.tight.wav",
       "start": 333.9353,
       "duration": 11.2382,
       "raw_duration": 14.2782,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\032-88a5283f6a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\032-88a5283f6a.wav"
     },
     {
       "index": 33,
       "text": "古埃及神话里，伊西斯也很厉害，但她更多是一个王后的形象，是奥西里斯的妻子。只有女娲，她是独立的。她不依附于任何男性神。她自己造人，自己补天，自己定婚姻。",
       "spoken": "古埃及神话里，伊西斯也很厉害，但她更多是一个王后的形象，是奥西里斯的妻子。只有女娲，她是独立的。她不依附于任何男性神。她自己造人，自己补天，自己定婚姻。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\033-7ebdcbcff6.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\033-7ebdcbcff6.tight.wav",
       "start": 345.1935,
       "duration": 11.5189,
       "raw_duration": 15.2389,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\033-7ebdcbcff6.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\033-7ebdcbcff6.wav"
     },
     {
       "index": 34,
       "text": "她不是谁的妻子，她就是她自己。这说明什么？说明中国文明的源头，母系社会的印记特别深。",
       "spoken": "她不是谁的妻子，她就是她自己。这说明什么？说明中国文明的源头，母系社会的印记特别深。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\034-726b4f867f.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\034-726b4f867f.tight.wav",
       "start": 356.7324,
       "duration": 6.1846,
       "raw_duration": 8.6546,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\034-726b4f867f.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\034-726b4f867f.wav"
     },
     {
       "index": 35,
       "text": "中国人对母亲的尊重，对大地的尊重，对养育的尊重，追根溯源，都是从女娲这里来的。你看中国人骂人的时候，最狠的是什么？是骂妈。为什么？",
       "spoken": "中国人对母亲的尊重，对大地的尊重，对养育的尊重，追根溯源，都是从女娲这里来的。你看中国人骂人的时候，最狠的是什么？是骂妈。为什么？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\035-f0932d3750.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\035-f0932d3750.tight.wav",
       "start": 362.937,
       "duration": 9.5293,
       "raw_duration": 12.4993,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\035-f0932d3750.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\035-f0932d3750.wav"
     },
     {
       "index": 36,
       "text": "因为妈在中国人心里的地位太高了。高到你侮辱一个人，最狠的方式就是侮辱他的母亲。你再看中国人拜的神。观音菩萨为什么在中国这么火？",
       "spoken": "因为妈在中国人心里的地位太高了。高到你侮辱一个人，最狠的方式就是侮辱他的母亲。你再看中国人拜的神。观音菩萨为什么在中国这么火？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\036-0eec183a0a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\036-0eec183a0a.tight.wav",
       "start": 372.4864,
       "duration": 9.0518,
       "raw_duration": 11.0818,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\036-0eec183a0a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\036-0eec183a0a.wav"
     },
     {
       "index": 37,
       "text": "因为她是女的，她慈悲，她救苦救难。观音菩萨其实就是女娲形象的延续。你再看中国人过年贴的门神、灶神，你再看农村老太太拜的老母、娘娘。这些信仰的源头，都是女娲。",
       "spoken": "因为她是女的，她慈悲，她救苦救难。观音菩萨其实就是女娲形象的延续。你再看中国人过年贴的门神、灶神，你再看农村老太太拜的老母、娘娘。这些信仰的源头，都是女娲。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\037-5f293a604f.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\037-5f293a604f.tight.wav",
       "start": 381.5582,
       "duration": 12.2521,
       "raw_duration": 16.9421,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\037-5f293a604f.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\037-5f293a604f.wav"
     },
     {
       "index": 38,
       "text": "你可能会说：女娲是神话人物，跟我有什么关系？关系大了。你想想，你妈为什么那么唠叨？为什么你出门她要叮嘱半天？为什么你闯祸了她第一个站出来给你兜底？",
       "spoken": "你可能会说：女娲是神话人物，跟我有什么关系？关系大了。你想想，你妈为什么那么唠叨？为什么你出门她要叮嘱半天？为什么你闯祸了她第一个站出来给你兜底？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\038-27ae137274.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\038-27ae137274.tight.wav",
       "start": 393.8303,
       "duration": 11.6959,
       "raw_duration": 15.5059,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\038-27ae137274.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\038-27ae137274.wav"
     },
     {
       "index": 39,
       "text": "因为从女娲开始，中国女性就是这个形象。她不光生孩子，她还补天。天塌了她顶着，你闯祸她收拾。你再想想，中国人为什么这么能扛？",
       "spoken": "因为从女娲开始，中国女性就是这个形象。她不光生孩子，她还补天。天塌了她顶着，你闯祸她收拾。你再想想，中国人为什么这么能扛？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\039-e22f10c7cc.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\039-e22f10c7cc.tight.wav",
       "start": 405.5462,
       "duration": 9.6392,
       "raw_duration": 12.8292,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\039-e22f10c7cc.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\039-e22f10c7cc.wav"
     },
     {
       "index": 40,
       "text": "为什么地震了、洪水了、疫情了，我们能熬过去？因为从女娲补天开始，我们这个文明就有一个信念：天破了可以补，水来了可以治，人没了可以再造。没有什么坎是过不去的。",
       "spoken": "为什么地震了、洪水了、疫情了，我们能熬过去？因为从女娲补天开始，我们这个文明就有一个信念：天破了可以补，水来了可以治，人没了可以再造。没有什么坎是过不去的。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\040-3782432458.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\040-3782432458.tight.wav",
       "start": 415.2054,
       "duration": 11.0437,
       "raw_duration": 13.9337,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\040-3782432458.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\040-3782432458.wav"
     },
     {
       "index": 41,
       "text": "这不是什么鸡汤。这是刻在我们基因里的东西。我有时候觉得，我们这代人特别焦虑。天天怕失业，怕买不起房，怕养不起娃。但你想想，女娲那个时候，天都塌了，她都没跑。",
       "spoken": "这不是什么鸡汤。这是刻在我们基因里的东西。我有时候觉得，我们这代人特别焦虑。天天怕失业，怕买不起房，怕养不起娃。但你想想，女娲那个时候，天都塌了，她都没跑。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\041-1a3f698b7c.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\041-1a3f698b7c.tight.wav",
       "start": 426.2691,
       "duration": 12.1073,
       "raw_duration": 16.0673,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\041-1a3f698b7c.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\041-1a3f698b7c.wav"
     },
     {
       "index": 42,
       "text": "她炼石补天，她斩龟撑天，她烧灰堵水。她一个人，把整个世界又拼回来了。你现在遇到那点事，算什么？行，不扯远了。我是艾伦，遛狗去了，白了个白。",
       "spoken": "她炼石补天，她斩龟撑天，她烧灰堵水。她一个人，把整个世界又拼回来了。你现在遇到那点事，算什么？行，不扯远了。我是艾伦，遛狗去了，白了个白。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\042-65ede48189.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\042-65ede48189.tight.wav",
       "start": 438.3964,
       "duration": 11.0594,
       "raw_duration": 14.4494,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\042-65ede48189.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\042-65ede48189.wav"
     }
   ]
 }

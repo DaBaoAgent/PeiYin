@@ -1,20 +1,32 @@
 {
-  "fingerprint": "72c3f780c8",
+  "fingerprint": "33a6d3f57c",
   "preset": "dabao",
   "voice_id": "dabao",
-  "voice": "dabao (GPT-SoVITS 26E ref / v2 zero-shot)",
-  "model": "gpt-sovits-v2",
+  "voice": "dabao (GPT-SoVITS v5turbo zero-shot)",
+  "model": "gpt-sovits-v5turbo",
   "split": "cut1",
-  "speed": 0.95,
+  "speed": 1.0,
   "sampling": {
-    "temperature": 0.7,
+    "temperature": 0.9,
     "top_p": 0.9,
-    "top_k": 15,
-    "seed": 20261020,
-    "repetition_penalty": 1.35
+    "top_k": 20,
+    "seed": -1,
+    "repetition_penalty": 1.3
   },
-  "duration": 197.569751,
+  "duration": 162.97,
   "speakFixes": [
+    [
+      "许圉师",
+      "许禹师"
+    ],
+    [
+      "碽妃",
+      "公妃"
+    ],
+    [
+      "朱橚",
+      "朱肃"
+    ],
     [
       "〇",
       "零"
@@ -379,197 +391,87 @@
     "gate_db": -33.0,
     "gate_floor": 0.3
   },
-  "script": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\李白_全篇.txt",
+  "script": "D:\\@kaifa\\PeiYin\\workdir\\tts\\004_李白_全篇.txt",
   "chunks": [
     {
       "index": 1,
-      "text": "刚才下楼遛狗，我们家狗追着一只猫跑了三条街，气喘吁吁还不回头。我蹲那儿看它，突然就想起一个人。这个人呢，后世供了他一千多年。",
-      "spoken": "刚才下楼遛狗，我们家狗追着一只猫跑了三条街，气喘吁吁还不回头。我蹲那儿看它，突然就想起一个人。这个人呢，后世供了他一千多年。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-68998dfa6f.tight.wav",
+      "text": "说起李白，你想到啥？诗仙，酒仙，半个盛唐都靠他那张嘴。但我跟你讲，这位爷一辈子，一半时间在写诗，一半时间在搞对象。四次婚姻，两场入赘，还给一个歌妓写过情诗。搁今天，这份感情史能上三天热搜。先看他的婚姻。二十七岁那年，李白结婚了，娶的是前任宰相许圉师的孙女。怎么娶的？入赘。说白了，倒插门。",
+      "spoken": "说起李白，你想到啥？诗仙，酒仙，半个盛唐都靠他那张嘴。但我跟你讲，这位爷一辈子，一半时间在写诗，一半时间在搞对象。四次婚姻，两场入赘，还给一个歌妓写过情诗。搁今天，这份感情史能上三天热搜。先看他的婚姻。二十七岁那年，李白结婚了，娶的是前任宰相许禹师的孙女。怎么娶的？入赘。说白了，倒插门。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\001-fa27fb3809.tight.wav",
       "start": 0.0,
-      "duration": 9.1024,
-      "raw_duration": 11.7224,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-68998dfa6f.wav"
+      "duration": 22.8967,
+      "raw_duration": 28.7067,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\001-fa27fb3809.wav"
     },
     {
       "index": 2,
-      "text": "诗仙，浪漫派的祖师爷，课本里那种不食人间烟火的牛人。但我跟你讲，这哥们这一辈子，其实就干了一件事，考公。而且还没考上。李白，公元七零一年生人。",
-      "spoken": "诗仙，浪漫派的祖师爷，课本里那种不食人间烟火的牛人。但我跟你讲，这哥们这一辈子，其实就干了一件事，考公。而且还没考上。李白，公元七零一年生人。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-d3dfb2373f.tight.wav",
-      "start": 9.1224,
-      "duration": 11.6393,
-      "raw_duration": 15.8293,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-d3dfb2373f.wav"
+      "text": "他自己写信都承认：许相国家，招我当上门女婿。一个能把大唐写进诗里的人，在老婆家，身份是上门女婿。这段婚姻生了一儿一女，可惜许氏走得早。之后他又结过两回：一个姓刘，没几年离了；一个在东鲁，生了个儿子叫颇黎。五十岁上，他又结婚了。这回又是宰相的孙女，姓宗，宗楚客家的。",
+      "spoken": "他自己写信都承认：许相国家，招我当上门女婿。一个能把大唐写进诗里的人，在老婆家，身份是上门女婿。这段婚姻生了一儿一女，可惜许氏走得早。之后他又结过两回：一个姓刘，没几年离了；一个在东鲁，生了个儿子叫颇黎。五十岁上，他又结婚了。这回又是宰相的孙女，姓宗，宗楚客家的。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\002-27f06d971d.tight.wav",
+      "start": 22.9167,
+      "duration": 20.6633,
+      "raw_duration": 25.4533,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\002-27f06d971d.wav"
     },
     {
       "index": 3,
-      "text": "别人十几岁还在背书，他十五岁已经写得一手好诗，二十岁仗剑走天下，搁今天就是那种，你妈嘴里别人家的孩子，朋友圈里最让人嫉妒的那种牛人。",
-      "spoken": "别人十几岁还在背书，他十五岁已经写得一手好诗，二十岁仗剑走天下，搁今天就是那种，你妈嘴里别人家的孩子，朋友圈里最让人嫉妒的那种牛人。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-24ceb6d7cf.tight.wav",
-      "start": 20.7817,
-      "duration": 9.8575,
-      "raw_duration": 11.5975,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-24ceb6d7cf.wav"
+      "text": "四次婚姻，两回入赘，对象还都是宰相孙女。你说他这是凭才华找对象，还是凭户口本？最浪漫的一段，是他五十二岁那年。李白跟杜甫、高适仨人在河南梁园喝酒，喝高兴了，他在墙上题了一首诗，叫《梁园吟》。有个姓宗的姑娘路过，当场掏一千两银子，把这面墙买了下来。为啥？因为那是李白写的。",
+      "spoken": "四次婚姻，两回入赘，对象还都是宰相孙女。你说他这是凭才华找对象，还是凭户口本？最浪漫的一段，是他五十二岁那年。李白跟杜甫、高适仨人在河南梁园喝酒，喝高兴了，他在墙上题了一首诗，叫《梁园吟》。有个姓宗的姑娘路过，当场掏一千两银子，把这面墙买了下来。为啥？因为那是李白写的。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\003-ce82bb76d4.tight.wav",
+      "start": 43.6,
+      "duration": 20.51,
+      "raw_duration": 25.04,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\003-ce82bb76d4.wav"
     },
     {
       "index": 4,
-      "text": "但你知道他自己最想干什么吗？不是当诗人。是当大官。他这辈子就想干一件事：当大官，辅佐皇帝把天下治好，然后功成身退。你看，连退休怎么退他都想好了。",
-      "spoken": "但你知道他自己最想干什么吗？不是当诗人。是当大官。他这辈子就想干一件事：当大官，辅佐皇帝把天下治好，然后功成身退。你看，连退休怎么退他都想好了。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-b06d966ecf.tight.wav",
-      "start": 30.6592,
-      "duration": 12.1921,
-      "raw_duration": 16.4121,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-b06d966ecf.wav"
+      "text": "这事传开以后，杜甫和高适一看，你俩有戏，直接撮合。李白就这么因为这面墙，娶了第四任老婆，宗氏。传说嘛，细节未必全真，但宗家姑娘确实有这个人。李白后来在梁园一住就是十年。最难得的是，李白后来犯了事下了大狱，是宗氏满世界求人，把他捞出来的。千金买壁，是一见钟情；狱中相救，才是过命的交情。",
+      "spoken": "这事传开以后，杜甫和高适一看，你俩有戏，直接撮合。李白就这么因为这面墙，娶了第四任老婆，宗氏。传说嘛，细节未必全真，但宗家姑娘确实有这个人。李白后来在梁园一住就是十年。最难得的是，李白后来犯了事下了大狱，是宗氏满世界求人，把他捞出来的。千金买壁，是一见钟情；狱中相救，才是过命的交情。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\004-e64ef6f774.tight.wav",
+      "start": 64.13,
+      "duration": 22.1833,
+      "raw_duration": 27.7333,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\004-e64ef6f774.wav"
     },
     {
       "index": 5,
-      "text": "就差一个录用通知。问题是，唐朝考公是要政审的。他爹是个商人。商人之子，在当时，连报名科举的资格都没有。搁今天什么概念？",
-      "spoken": "就差一个录用通知。问题是，唐朝考公是要政审的。他爹是个商人。商人之子，在当时，连报名科举的资格都没有。搁今天什么概念？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-a8180f10b8.tight.wav",
-      "start": 42.8713,
-      "duration": 8.37,
-      "raw_duration": 11.27,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-a8180f10b8.wav"
+      "text": "再说说他写诗夸过的女人。李白有一首情诗，叫《示金陵子》。金陵子是谁？金陵城里的歌妓。诗里他写：谢公正要东山妓，携手林泉处处行。翻译成人话：谢安当年带着歌妓归隐山林，我李白，也要带着你走。一个见惯大世面的诗人能写出这种话，说明这姑娘真让他上心。不过后来呢？没有后来了。诗写完，人走了，江湖再见。",
+      "spoken": "再说说他写诗夸过的女人。李白有一首情诗，叫《示金陵子》。金陵子是谁？金陵城里的歌妓。诗里他写：谢公正要东山妓，携手林泉处处行。翻译成人话：谢安当年带着歌妓归隐山林，我李白，也要带着你走。一个见惯大世面的诗人能写出这种话，说明这姑娘真让他上心。不过后来呢？没有后来了。诗写完，人走了，江湖再见。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\005-f3106cada2.tight.wav",
+      "start": 86.3333,
+      "duration": 23.3033,
+      "raw_duration": 29.5333,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\005-f3106cada2.wav"
     },
     {
       "index": 6,
-      "text": "就好比你学历再牛，简历刚递过去，人事看了一眼你家户口本，直接扔进碎纸机。所以李白这辈子，从来没参加过高考。他走的是另一条路，贵人推荐。",
-      "spoken": "就好比你学历再牛，简历刚递过去，人事看了一眼你家户口本，直接扔进碎纸机。所以李白这辈子，从来没参加过高考。他走的是另一条路，贵人推荐。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-72472c7fe7.tight.wav",
-      "start": 51.2613,
-      "duration": 10.399,
-      "raw_duration": 13.349,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-72472c7fe7.wav"
+      "text": "网上还有更八卦的传闻，说李白跟唐玄宗的妹妹玉真公主有一腿，还说\"相看两不厌，只有敬亭山\"是写给公主的。这里我得泼盆冷水：这说法传得挺久，正经史料里找不到实锤。玉真公主确实举荐过李白，让他进长安当翰林。但那是道友之间的知遇之恩。公主一辈子修道，史料里没有儿女情长的记载，敬亭山那首诗，也是后人附会。",
+      "spoken": "网上还有更八卦的传闻，说李白跟唐玄宗的妹妹玉真公主有一腿，还说\"相看两不厌，只有敬亭山\"是写给公主的。这里我得泼盆冷水：这说法传得挺久，正经史料里找不到实锤。玉真公主确实举荐过李白，让他进长安当翰林。但那是道友之间的知遇之恩。公主一辈子修道，史料里没有儿女情长的记载，敬亭山那首诗，也是后人附会。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\006-b8e74b2b57.tight.wav",
+      "start": 109.6567,
+      "duration": 22.98,
+      "raw_duration": 28.0,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\006-b8e74b2b57.wav"
     },
     {
       "index": 7,
-      "text": "这一走，就走到了四十二岁。公元七四二年，终于，唐玄宗看了他的诗，把他召进了长安。那一天，李白以为自己要施展抱负了。",
-      "spoken": "这一走，就走到了四十二岁。公元七四二年，终于，唐玄宗看了他的诗，把他召进了长安。那一天，李白以为自己要施展抱负了。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-2681918242.tight.wav",
-      "start": 61.6803,
-      "duration": 8.8787,
-      "raw_duration": 11.1587,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-2681918242.wav"
+      "text": "绯闻嘛，好看，但别当真。回头看李白这情史，你发现没有：他对感情的劲儿，跟他求官那股劲儿一模一样——热烈，投入，说走就走。他一生都在追：追官，追名。反正就是不想窝着。可追到头，一个都没抓住。爱情也是，来的时候轰轰烈烈，走的时候连句再见都没有。这个大唐最自由的人，其实一点都不自由。",
+      "spoken": "绯闻嘛，好看，但别当真。回头看李白这情史，你发现没有：他对感情的劲儿，跟他求官那股劲儿一模一样——热烈，投入，说走就走。他一生都在追：追官，追名。反正就是不想窝着。可追到头，一个都没抓住。爱情也是，来的时候轰轰烈烈，走的时候连句再见都没有。这个大唐最自由的人，其实一点都不自由。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\007-0d0d64bdae.tight.wav",
+      "start": 132.6567,
+      "duration": 20.5567,
+      "raw_duration": 26.2667,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\007-0d0d64bdae.wav"
     },
     {
       "index": 8,
-      "text": "皇帝迎接他的时候，甚至亲自走下来，给他摆筷子。他给朋友写信用了一句话，叫仰天大笑出门去，我辈岂是蓬蒿人。翻译成人话就是：看见没！老子终于上岸了！结果呢？",
-      "spoken": "皇帝迎接他的时候，甚至亲自走下来，给他摆筷子。他给朋友写信用了一句话，叫仰天大笑出门去，我辈岂是蓬蒿人。翻译成人话就是：看见没！老子终于上岸了！结果呢？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-0e13c55c29.tight.wav",
-      "start": 70.579,
-      "duration": 12.1188,
-      "raw_duration": 15.1988,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-0e13c55c29.wav"
-    },
-    {
-      "index": 9,
-      "text": "他在长安待了不到两年，终于搞明白一件事。皇帝召他来，不是让他治国的。是让他写诗的。皇帝喝酒了，叫李白：来，写一首。杨贵妃赏花了，叫李白：来，写一首。",
-      "spoken": "他在长安待了不到两年，终于搞明白一件事。皇帝召他来，不是让他治国的。是让他写诗的。皇帝喝酒了，叫李白：来，写一首。杨贵妃赏花了，叫李白：来，写一首。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-445e2391c3.tight.wav",
-      "start": 82.7178,
-      "duration": 11.6372,
-      "raw_duration": 15.5572,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-445e2391c3.wav"
-    },
-    {
-      "index": 10,
-      "text": "他以为自己是来当大老板的，结果发现，他就是个皇家签约内容创作者，每天的考核指标就是，今天能不能让贵妃笑出来。更绝的是啥？",
-      "spoken": "他以为自己是来当大老板的，结果发现，他就是个皇家签约内容创作者，每天的考核指标就是，今天能不能让贵妃笑出来。更绝的是啥？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-607f71eca3.tight.wav",
-      "start": 94.375,
-      "duration": 9.0733,
-      "raw_duration": 11.0333,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-607f71eca3.wav"
-    },
-    {
-      "index": 11,
-      "text": "他让唐玄宗最宠信的太监高力士，给他脱靴子。你想想，高力士是谁？那是皇帝身边一号人物，满朝文武都得给他面子。你李白一个合同工，让我给你脱鞋？",
-      "spoken": "他让唐玄宗最宠信的太监高力士，给他脱靴子。你想想，高力士是谁？那是皇帝身边一号人物，满朝文武都得给他面子。你李白一个合同工，让我给你脱鞋？",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-59e064e295.tight.wav",
-      "start": 103.4682,
-      "duration": 10.2308,
-      "raw_duration": 12.7108,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-59e064e295.wav"
-    },
-    {
-      "index": 12,
-      "text": "这事一出来，他在朝中就彻底混不下去了。两年后，皇帝赐了他一笔钱，把他体面地请出了长安。史书上叫赐金放还。说人话就是：被优化了。赔偿都没给足。",
-      "spoken": "这事一出来，他在朝中就彻底混不下去了。两年后，皇帝赐了他一笔钱，把他体面地请出了长安。史书上叫赐金放还。说人话就是：被优化了。赔偿都没给足。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-18596abf30.tight.wav",
-      "start": 113.7191,
-      "duration": 11.2137,
-      "raw_duration": 14.1437,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-18596abf30.wav"
-    },
-    {
-      "index": 13,
-      "text": "被优化之后的李白，就开始了我们最熟悉的那个样子，游山玩水，喝酒作诗。但他心里那团火，一直没灭。五十七岁那年，他又做了一个决定：加入永王李璘的幕府。",
-      "spoken": "被优化之后的李白，就开始了我们最熟悉的那个样子，游山玩水，喝酒作诗。但他心里那团火，一直没灭。五十七岁那年，他又做了一个决定：加入永王李璘的幕府。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-5088a2daa6.tight.wav",
-      "start": 124.9528,
-      "duration": 11.1615,
-      "raw_duration": 13.8815,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-5088a2daa6.wav"
-    },
-    {
-      "index": 14,
-      "text": "他觉得，自己终于等到第二次机会了。结果呢？永王起兵造反，被他哥唐肃宗灭了。李白从一个想当宰相的理想主义者，变成了反贼同党，按律当斩。",
-      "spoken": "他觉得，自己终于等到第二次机会了。结果呢？永王起兵造反，被他哥唐肃宗灭了。李白从一个想当宰相的理想主义者，变成了反贼同党，按律当斩。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-a5873bb2ba.tight.wav",
-      "start": 136.1343,
-      "duration": 10.2771,
-      "raw_duration": 13.5571,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-a5873bb2ba.wav"
-    },
-    {
-      "index": 15,
-      "text": "最后看在他诗名太大的份上，改判流放夜郎，就是今天贵州那一带。那一年，他五十八岁。流放走到半路，赶上朝廷大赦，他自由了。",
-      "spoken": "最后看在他诗名太大的份上，改判流放夜郎，就是今天贵州那一带。那一年，他五十八岁。流放走到半路，赶上朝廷大赦，他自由了。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-11afb49a34.tight.wav",
-      "start": 146.4314,
-      "duration": 9.318,
-      "raw_duration": 11.848,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-11afb49a34.wav"
-    },
-    {
-      "index": 16,
-      "text": "那一刻他写下了那首我们都背过的诗：朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。你读这首诗觉得特别轻松，对吧？跟旅游打卡似的。",
-      "spoken": "那一刻他写下了那首我们都背过的诗：朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。你读这首诗觉得特别轻松，对吧？跟旅游打卡似的。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-438548781a.tight.wav",
-      "start": 155.7694,
-      "duration": 11.609,
-      "raw_duration": 14.749,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-438548781a.wav"
-    },
-    {
-      "index": 17,
-      "text": "但写这首诗的时候，他这一辈子，被这世道折腾得已经差不多了。后来的人都说，李白是谪仙，天上来的，不食人间烟火。",
-      "spoken": "但写这首诗的时候，他这一辈子，被这世道折腾得已经差不多了。后来的人都说，李白是谪仙，天上来的，不食人间烟火。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-964765e27f.tight.wav",
-      "start": 167.3984,
-      "duration": 8.3752,
-      "raw_duration": 10.1352,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-964765e27f.wav"
-    },
-    {
-      "index": 18,
-      "text": "可我总觉得，他这一辈子，跟咱们身边那种人挺像的：有本事，体制不要；想做点事，命运老按他脑袋；嘴上说老子不在乎，机会一来，眼睛里又亮了。他不是不想当官。",
-      "spoken": "可我总觉得，他这一辈子，跟咱们身边那种人挺像的：有本事，体制不要；想做点事，命运老按他脑袋；嘴上说老子不在乎，机会一来，眼睛里又亮了。他不是不想当官。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-412de9fbf6.tight.wav",
-      "start": 175.7936,
-      "duration": 11.4342,
-      "raw_duration": 14.8142,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-412de9fbf6.wav"
-    },
-    {
-      "index": 19,
-      "text": "他是真的想做事。所以下次你再读到天生我材必有用，别光觉得他洒脱。那是一个被拒了一辈子的人，硬给自己撑的一口气。我是艾伦，遛狗去了，拜了个拜。",
-      "spoken": "他是真的想做事。所以下次你再读到天生我材必有用，别光觉得他洒脱。那是一个被拒了一辈子的人，硬给自己撑的一口气。我是艾伦，遛狗去了，拜了个拜。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-23aefef783.tight.wav",
-      "start": 187.2478,
-      "duration": 10.322,
-      "raw_duration": 13.672,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-23aefef783.wav"
+      "text": "身世捆着他，门第压着他，命运还老拿他开涮。自由是写出来的，身不由己才是真的。好了，李白的八卦就唠到这儿。我是艾伦，遛狗去了，拜了个拜。",
+      "spoken": "身世捆着他，门第压着他，命运还老拿他开涮。自由是写出来的，身不由己才是真的。好了，李白的八卦就唠到这儿。我是艾伦，遛狗去了，拜了个拜。",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\008-e21cf31f81.tight.wav",
+      "start": 153.2333,
+      "duration": 9.7367,
+      "raw_duration": 12.2267,
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\004_李白\\narration-chunks\\008-e21cf31f81.wav"
     }
   ]
 }

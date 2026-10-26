@@ -1,0 +1,575 @@
+{
+  "fingerprint": "72c3f780c8",
+  "preset": "dabao",
+  "voice_id": "dabao",
+  "voice": "dabao (GPT-SoVITS 26E ref / v2 zero-shot)",
+  "model": "gpt-sovits-v2",
+  "split": "cut1",
+  "speed": 0.95,
+  "sampling": {
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "top_k": 15,
+    "seed": 20261020,
+    "repetition_penalty": 1.35
+  },
+  "duration": 197.569751,
+  "speakFixes": [
+    [
+      "〇",
+      "零"
+    ],
+    [
+      "100",
+      "一百"
+    ],
+    [
+      "3D",
+      "三低"
+    ],
+    [
+      "刘琮出降",
+      "刘琮出祥"
+    ],
+    [
+      "出降",
+      "出祥"
+    ],
+    [
+      "张昭主降",
+      "张昭主祥"
+    ],
+    [
+      "不战而降",
+      "不战而祥"
+    ],
+    [
+      "望风而降",
+      "望风而祥"
+    ],
+    [
+      "闻风而降",
+      "闻风而祥"
+    ],
+    [
+      "束手而降",
+      "束手而祥"
+    ],
+    [
+      "开城而降",
+      "开城而祥"
+    ],
+    [
+      "举城而降",
+      "举城而祥"
+    ],
+    [
+      "率众而降",
+      "率众而祥"
+    ],
+    [
+      "弃城而降",
+      "弃城而祥"
+    ],
+    [
+      "兵败而降",
+      "兵败而祥"
+    ],
+    [
+      "势穷而降",
+      "势穷而祥"
+    ],
+    [
+      "献城而降",
+      "献城而祥"
+    ],
+    [
+      "荆州降兵",
+      "荆州祥兵"
+    ],
+    [
+      "纳降",
+      "纳祥"
+    ],
+    [
+      "受降",
+      "受祥"
+    ],
+    [
+      "归降",
+      "归祥"
+    ],
+    [
+      "劝降",
+      "劝祥"
+    ],
+    [
+      "招降",
+      "招祥"
+    ],
+    [
+      "请降",
+      "请祥"
+    ],
+    [
+      "乞降",
+      "乞祥"
+    ],
+    [
+      "降将",
+      "祥将"
+    ],
+    [
+      "降兵",
+      "祥兵"
+    ],
+    [
+      "降者",
+      "祥者"
+    ],
+    [
+      "降表",
+      "祥表"
+    ],
+    [
+      "降书",
+      "祥书"
+    ],
+    [
+      "降于魏",
+      "祥于魏"
+    ],
+    [
+      "降于吴",
+      "祥于吴"
+    ],
+    [
+      "降于汉",
+      "祥于汉"
+    ],
+    [
+      "降于曹",
+      "祥于曹"
+    ],
+    [
+      "降于刘",
+      "祥于刘"
+    ],
+    [
+      "降于袁",
+      "祥于袁"
+    ],
+    [
+      "降于孙",
+      "祥于孙"
+    ],
+    [
+      "降于晋",
+      "祥于晋"
+    ],
+    [
+      "降魏",
+      "祥魏"
+    ],
+    [
+      "降吴",
+      "祥吴"
+    ],
+    [
+      "降汉",
+      "祥汉"
+    ],
+    [
+      "降曹",
+      "祥曹"
+    ],
+    [
+      "降刘",
+      "祥刘"
+    ],
+    [
+      "降袁",
+      "祥袁"
+    ],
+    [
+      "降孙",
+      "祥孙"
+    ],
+    [
+      "降晋",
+      "祥晋"
+    ],
+    [
+      "诈降",
+      "诈祥"
+    ],
+    [
+      "投降",
+      "投祥"
+    ],
+    [
+      "调起来也快",
+      "吊起来也快"
+    ],
+    [
+      "兵和粮调得快",
+      "兵和粮吊得快"
+    ],
+    [
+      "几千乘",
+      "几千胜"
+    ],
+    [
+      "许都",
+      "许督"
+    ],
+    [
+      "中牟",
+      "中木"
+    ],
+    [
+      "荀彧",
+      "荀玉"
+    ],
+    [
+      "张郃",
+      "张合"
+    ],
+    [
+      "乐进",
+      "岳进"
+    ],
+    [
+      "单于",
+      "蝉于"
+    ],
+    [
+      "阏氏",
+      "胭脂"
+    ],
+    [
+      "月氏",
+      "月支"
+    ],
+    [
+      "龟兹",
+      "秋慈"
+    ],
+    [
+      "吐蕃",
+      "土播"
+    ],
+    [
+      "大宛",
+      "大渊"
+    ],
+    [
+      "身毒",
+      "元毒"
+    ],
+    [
+      "并州",
+      "冰州"
+    ],
+    [
+      "兖州",
+      "演州"
+    ],
+    [
+      "邺城",
+      "夜城"
+    ],
+    [
+      "犍为",
+      "前为"
+    ],
+    [
+      "涪城",
+      "扶城"
+    ],
+    [
+      "葭萌",
+      "家萌"
+    ],
+    [
+      "猇亭",
+      "消亭"
+    ],
+    [
+      "濡须",
+      "如须"
+    ],
+    [
+      "长坂坡",
+      "常坂坡"
+    ],
+    [
+      "夏侯惇",
+      "夏侯蹲"
+    ],
+    [
+      "许褚",
+      "许楚"
+    ],
+    [
+      "沮授",
+      "举授"
+    ],
+    [
+      "审配",
+      "沈配"
+    ],
+    [
+      "淳于琼",
+      "纯于琼"
+    ],
+    [
+      "麴义",
+      "屈义"
+    ],
+    [
+      "蹋顿",
+      "踏顿"
+    ],
+    [
+      "六安",
+      "路安"
+    ],
+    [
+      "亳州",
+      "博州"
+    ],
+    [
+      "降卒",
+      "祥卒"
+    ],
+    [
+      "前线一降",
+      "前线一祥"
+    ],
+    [
+      "斩将",
+      "斩匠"
+    ],
+    [
+      "守将",
+      "守匠"
+    ],
+    [
+      "倒腾",
+      "捣腾"
+    ],
+    [
+      "炸锅",
+      "闸锅"
+    ],
+    [
+      "任何一步错都是死；袁绍那边",
+      "任何一步错都是死。袁绍那边"
+    ],
+    [
+      "是每一步都慢半拍：救乌巢慢",
+      "是每一步都慢半拍。救乌巢慢"
+    ]
+  ],
+  "tighten": {
+    "min_gap_ms": 150,
+    "keep_gap_ms": 100,
+    "silence_db": -40.0,
+    "gate_db": -33.0,
+    "gate_floor": 0.3
+  },
+  "script": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\李白_全篇.txt",
+  "chunks": [
+    {
+      "index": 1,
+      "text": "刚才下楼遛狗，我们家狗追着一只猫跑了三条街，气喘吁吁还不回头。我蹲那儿看它，突然就想起一个人。这个人呢，后世供了他一千多年。",
+      "spoken": "刚才下楼遛狗，我们家狗追着一只猫跑了三条街，气喘吁吁还不回头。我蹲那儿看它，突然就想起一个人。这个人呢，后世供了他一千多年。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-68998dfa6f.tight.wav",
+      "start": 0.0,
+      "duration": 9.1024,
+      "raw_duration": 11.7224,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-68998dfa6f.wav"
+    },
+    {
+      "index": 2,
+      "text": "诗仙，浪漫派的祖师爷，课本里那种不食人间烟火的牛人。但我跟你讲，这哥们这一辈子，其实就干了一件事，考公。而且还没考上。李白，公元七零一年生人。",
+      "spoken": "诗仙，浪漫派的祖师爷，课本里那种不食人间烟火的牛人。但我跟你讲，这哥们这一辈子，其实就干了一件事，考公。而且还没考上。李白，公元七零一年生人。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-d3dfb2373f.tight.wav",
+      "start": 9.1224,
+      "duration": 11.6393,
+      "raw_duration": 15.8293,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-d3dfb2373f.wav"
+    },
+    {
+      "index": 3,
+      "text": "别人十几岁还在背书，他十五岁已经写得一手好诗，二十岁仗剑走天下，搁今天就是那种，你妈嘴里别人家的孩子，朋友圈里最让人嫉妒的那种牛人。",
+      "spoken": "别人十几岁还在背书，他十五岁已经写得一手好诗，二十岁仗剑走天下，搁今天就是那种，你妈嘴里别人家的孩子，朋友圈里最让人嫉妒的那种牛人。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-24ceb6d7cf.tight.wav",
+      "start": 20.7817,
+      "duration": 9.8575,
+      "raw_duration": 11.5975,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-24ceb6d7cf.wav"
+    },
+    {
+      "index": 4,
+      "text": "但你知道他自己最想干什么吗？不是当诗人。是当大官。他这辈子就想干一件事：当大官，辅佐皇帝把天下治好，然后功成身退。你看，连退休怎么退他都想好了。",
+      "spoken": "但你知道他自己最想干什么吗？不是当诗人。是当大官。他这辈子就想干一件事：当大官，辅佐皇帝把天下治好，然后功成身退。你看，连退休怎么退他都想好了。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-b06d966ecf.tight.wav",
+      "start": 30.6592,
+      "duration": 12.1921,
+      "raw_duration": 16.4121,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-b06d966ecf.wav"
+    },
+    {
+      "index": 5,
+      "text": "就差一个录用通知。问题是，唐朝考公是要政审的。他爹是个商人。商人之子，在当时，连报名科举的资格都没有。搁今天什么概念？",
+      "spoken": "就差一个录用通知。问题是，唐朝考公是要政审的。他爹是个商人。商人之子，在当时，连报名科举的资格都没有。搁今天什么概念？",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-a8180f10b8.tight.wav",
+      "start": 42.8713,
+      "duration": 8.37,
+      "raw_duration": 11.27,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\005-a8180f10b8.wav"
+    },
+    {
+      "index": 6,
+      "text": "就好比你学历再牛，简历刚递过去，人事看了一眼你家户口本，直接扔进碎纸机。所以李白这辈子，从来没参加过高考。他走的是另一条路，贵人推荐。",
+      "spoken": "就好比你学历再牛，简历刚递过去，人事看了一眼你家户口本，直接扔进碎纸机。所以李白这辈子，从来没参加过高考。他走的是另一条路，贵人推荐。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-72472c7fe7.tight.wav",
+      "start": 51.2613,
+      "duration": 10.399,
+      "raw_duration": 13.349,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\006-72472c7fe7.wav"
+    },
+    {
+      "index": 7,
+      "text": "这一走，就走到了四十二岁。公元七四二年，终于，唐玄宗看了他的诗，把他召进了长安。那一天，李白以为自己要施展抱负了。",
+      "spoken": "这一走，就走到了四十二岁。公元七四二年，终于，唐玄宗看了他的诗，把他召进了长安。那一天，李白以为自己要施展抱负了。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-2681918242.tight.wav",
+      "start": 61.6803,
+      "duration": 8.8787,
+      "raw_duration": 11.1587,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\007-2681918242.wav"
+    },
+    {
+      "index": 8,
+      "text": "皇帝迎接他的时候，甚至亲自走下来，给他摆筷子。他给朋友写信用了一句话，叫仰天大笑出门去，我辈岂是蓬蒿人。翻译成人话就是：看见没！老子终于上岸了！结果呢？",
+      "spoken": "皇帝迎接他的时候，甚至亲自走下来，给他摆筷子。他给朋友写信用了一句话，叫仰天大笑出门去，我辈岂是蓬蒿人。翻译成人话就是：看见没！老子终于上岸了！结果呢？",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-0e13c55c29.tight.wav",
+      "start": 70.579,
+      "duration": 12.1188,
+      "raw_duration": 15.1988,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\008-0e13c55c29.wav"
+    },
+    {
+      "index": 9,
+      "text": "他在长安待了不到两年，终于搞明白一件事。皇帝召他来，不是让他治国的。是让他写诗的。皇帝喝酒了，叫李白：来，写一首。杨贵妃赏花了，叫李白：来，写一首。",
+      "spoken": "他在长安待了不到两年，终于搞明白一件事。皇帝召他来，不是让他治国的。是让他写诗的。皇帝喝酒了，叫李白：来，写一首。杨贵妃赏花了，叫李白：来，写一首。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-445e2391c3.tight.wav",
+      "start": 82.7178,
+      "duration": 11.6372,
+      "raw_duration": 15.5572,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\009-445e2391c3.wav"
+    },
+    {
+      "index": 10,
+      "text": "他以为自己是来当大老板的，结果发现，他就是个皇家签约内容创作者，每天的考核指标就是，今天能不能让贵妃笑出来。更绝的是啥？",
+      "spoken": "他以为自己是来当大老板的，结果发现，他就是个皇家签约内容创作者，每天的考核指标就是，今天能不能让贵妃笑出来。更绝的是啥？",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-607f71eca3.tight.wav",
+      "start": 94.375,
+      "duration": 9.0733,
+      "raw_duration": 11.0333,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\010-607f71eca3.wav"
+    },
+    {
+      "index": 11,
+      "text": "他让唐玄宗最宠信的太监高力士，给他脱靴子。你想想，高力士是谁？那是皇帝身边一号人物，满朝文武都得给他面子。你李白一个合同工，让我给你脱鞋？",
+      "spoken": "他让唐玄宗最宠信的太监高力士，给他脱靴子。你想想，高力士是谁？那是皇帝身边一号人物，满朝文武都得给他面子。你李白一个合同工，让我给你脱鞋？",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-59e064e295.tight.wav",
+      "start": 103.4682,
+      "duration": 10.2308,
+      "raw_duration": 12.7108,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\011-59e064e295.wav"
+    },
+    {
+      "index": 12,
+      "text": "这事一出来，他在朝中就彻底混不下去了。两年后，皇帝赐了他一笔钱，把他体面地请出了长安。史书上叫赐金放还。说人话就是：被优化了。赔偿都没给足。",
+      "spoken": "这事一出来，他在朝中就彻底混不下去了。两年后，皇帝赐了他一笔钱，把他体面地请出了长安。史书上叫赐金放还。说人话就是：被优化了。赔偿都没给足。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-18596abf30.tight.wav",
+      "start": 113.7191,
+      "duration": 11.2137,
+      "raw_duration": 14.1437,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\012-18596abf30.wav"
+    },
+    {
+      "index": 13,
+      "text": "被优化之后的李白，就开始了我们最熟悉的那个样子，游山玩水，喝酒作诗。但他心里那团火，一直没灭。五十七岁那年，他又做了一个决定：加入永王李璘的幕府。",
+      "spoken": "被优化之后的李白，就开始了我们最熟悉的那个样子，游山玩水，喝酒作诗。但他心里那团火，一直没灭。五十七岁那年，他又做了一个决定：加入永王李璘的幕府。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-5088a2daa6.tight.wav",
+      "start": 124.9528,
+      "duration": 11.1615,
+      "raw_duration": 13.8815,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\013-5088a2daa6.wav"
+    },
+    {
+      "index": 14,
+      "text": "他觉得，自己终于等到第二次机会了。结果呢？永王起兵造反，被他哥唐肃宗灭了。李白从一个想当宰相的理想主义者，变成了反贼同党，按律当斩。",
+      "spoken": "他觉得，自己终于等到第二次机会了。结果呢？永王起兵造反，被他哥唐肃宗灭了。李白从一个想当宰相的理想主义者，变成了反贼同党，按律当斩。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-a5873bb2ba.tight.wav",
+      "start": 136.1343,
+      "duration": 10.2771,
+      "raw_duration": 13.5571,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\014-a5873bb2ba.wav"
+    },
+    {
+      "index": 15,
+      "text": "最后看在他诗名太大的份上，改判流放夜郎，就是今天贵州那一带。那一年，他五十八岁。流放走到半路，赶上朝廷大赦，他自由了。",
+      "spoken": "最后看在他诗名太大的份上，改判流放夜郎，就是今天贵州那一带。那一年，他五十八岁。流放走到半路，赶上朝廷大赦，他自由了。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-11afb49a34.tight.wav",
+      "start": 146.4314,
+      "duration": 9.318,
+      "raw_duration": 11.848,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\015-11afb49a34.wav"
+    },
+    {
+      "index": 16,
+      "text": "那一刻他写下了那首我们都背过的诗：朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。你读这首诗觉得特别轻松，对吧？跟旅游打卡似的。",
+      "spoken": "那一刻他写下了那首我们都背过的诗：朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。你读这首诗觉得特别轻松，对吧？跟旅游打卡似的。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-438548781a.tight.wav",
+      "start": 155.7694,
+      "duration": 11.609,
+      "raw_duration": 14.749,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\016-438548781a.wav"
+    },
+    {
+      "index": 17,
+      "text": "但写这首诗的时候，他这一辈子，被这世道折腾得已经差不多了。后来的人都说，李白是谪仙，天上来的，不食人间烟火。",
+      "spoken": "但写这首诗的时候，他这一辈子，被这世道折腾得已经差不多了。后来的人都说，李白是谪仙，天上来的，不食人间烟火。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-964765e27f.tight.wav",
+      "start": 167.3984,
+      "duration": 8.3752,
+      "raw_duration": 10.1352,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\017-964765e27f.wav"
+    },
+    {
+      "index": 18,
+      "text": "可我总觉得，他这一辈子，跟咱们身边那种人挺像的：有本事，体制不要；想做点事，命运老按他脑袋；嘴上说老子不在乎，机会一来，眼睛里又亮了。他不是不想当官。",
+      "spoken": "可我总觉得，他这一辈子，跟咱们身边那种人挺像的：有本事，体制不要；想做点事，命运老按他脑袋；嘴上说老子不在乎，机会一来，眼睛里又亮了。他不是不想当官。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-412de9fbf6.tight.wav",
+      "start": 175.7936,
+      "duration": 11.4342,
+      "raw_duration": 14.8142,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\018-412de9fbf6.wav"
+    },
+    {
+      "index": 19,
+      "text": "他是真的想做事。所以下次你再读到天生我材必有用，别光觉得他洒脱。那是一个被拒了一辈子的人，硬给自己撑的一口气。我是艾伦，遛狗去了，拜了个拜。",
+      "spoken": "他是真的想做事。所以下次你再读到天生我材必有用，别光觉得他洒脱。那是一个被拒了一辈子的人，硬给自己撑的一口气。我是艾伦，遛狗去了，拜了个拜。",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-23aefef783.tight.wav",
+      "start": 187.2478,
+      "duration": 10.322,
+      "raw_duration": 13.672,
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\019-23aefef783.wav"
+    }
+  ]
+}

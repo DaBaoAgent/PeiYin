@@ -379,227 +379,227 @@
     "gate_db": -33.0,
     "gate_floor": 0.3
   },
-  "script": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\商汤_全篇.txt",
+  "script": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\商汤_全篇.txt",
   "chunks": [
     {
       "index": 1,
       "text": "你天天说革命这个词。但你知道革命这个词是谁发明的吗？是商汤。汤武革命，顺乎天而应乎人。这是易经里写的。商汤伐夏桀，是中国历史上第一次革命。但你知道吗？",
       "spoken": "你天天说革命这个词。但你知道革命这个词是谁发明的吗？是商汤。汤武革命，顺乎天而应乎人。这是易经里写的。商汤伐夏桀，是中国历史上第一次革命。但你知道吗？",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\001-d76dfe77bb.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\001-d76dfe77bb.tight.wav",
       "start": 0.0,
       "duration": 10.1656,
       "raw_duration": 13.1456,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\001-d76dfe77bb.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\001-d76dfe77bb.wav"
     },
     {
       "index": 2,
       "text": "商汤不是什么一开始就想造反的人。他原本是夏朝的一个诸侯，叫商侯。他的封地在今天河南商丘一带。他是怎么从一个诸侯，变成中国历史上第二个王朝的开国君主的？",
       "spoken": "商汤不是什么一开始就想造反的人。他原本是夏朝的一个诸侯，叫商侯。他的封地在今天河南商丘一带。他是怎么从一个诸侯，变成中国历史上第二个王朝的开国君主的？",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\002-4038a1fd7c.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\002-4038a1fd7c.tight.wav",
       "start": 10.1856,
       "duration": 11.262,
       "raw_duration": 13.752,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\002-4038a1fd7c.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\002-4038a1fd7c.wav"
     },
     {
       "index": 3,
       "text": "商汤这个人，跟夏桀完全反过来。夏桀是穷兵黩武，商汤是到处行仁政。有个著名的故事，叫网开三面。说商汤有一次出门，看见一个人在野外张网。",
       "spoken": "商汤这个人，跟夏桀完全反过来。夏桀是穷兵黩武，商汤是到处行仁政。有个著名的故事，叫网开三面。说商汤有一次出门，看见一个人在野外张网。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\003-73309c7270.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\003-73309c7270.tight.wav",
       "start": 21.4676,
       "duration": 10.2143,
       "raw_duration": 13.0943,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\003-73309c7270.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\003-73309c7270.wav"
     },
     {
       "index": 4,
       "text": "那人张了四面网，嘴里还念叨：从四面八方来的鸟啊，都飞到我网里来吧。商汤一看，说：哎，你这是要把鸟打尽啊。只有夏桀这种暴君才会这么干。",
       "spoken": "那人张了四面网，嘴里还念叨：从四面八方来的鸟啊，都飞到我网里来吧。商汤一看，说：哎，你这是要把鸟打尽啊。只有夏桀这种暴君才会这么干。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\004-cdafdbdfe2.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\004-cdafdbdfe2.tight.wav",
       "start": 31.7019,
       "duration": 10.1491,
       "raw_duration": 13.1391,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\004-cdafdbdfe2.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\004-cdafdbdfe2.wav"
     },
     {
       "index": 5,
       "text": "然后他把网解开三面，只留一面。他也念叨：想往左的往左，想往右的往右，想往上的往上，实在不想活的，就飞到我网里来吧。",
       "spoken": "然后他把网解开三面，只留一面。他也念叨：想往左的往左，想往右的往右，想往上的往上，实在不想活的，就飞到我网里来吧。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\005-5da509e56a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\005-5da509e56a.tight.wav",
       "start": 41.8711,
       "duration": 9.2151,
       "raw_duration": 11.5751,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\005-5da509e56a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\005-5da509e56a.wav"
     },
     {
       "index": 6,
       "text": "周围的诸侯听说了这件事，都说：商汤的仁德，连鸟兽都覆盖到了。于是各个部落纷纷归顺他。你看，这就是政治。夏桀到处打，把人打反了。",
       "spoken": "周围的诸侯听说了这件事，都说：商汤的仁德，连鸟兽都覆盖到了。于是各个部落纷纷归顺他。你看，这就是政治。夏桀到处打，把人打反了。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\006-73ccd97ce9.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\006-73ccd97ce9.tight.wav",
       "start": 51.1062,
       "duration": 8.9615,
       "raw_duration": 11.9715,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\006-73ccd97ce9.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\006-73ccd97ce9.wav"
     },
     {
       "index": 7,
       "text": "商汤到处行仁政，把人吸引过来了。商汤身边有个牛人，叫伊尹。伊尹原本是个奴隶，是有莘氏的陪嫁奴隶。他做菜特别好吃，商汤特别喜欢他做的菜。",
       "spoken": "商汤到处行仁政，把人吸引过来了。商汤身边有个牛人，叫伊尹。伊尹原本是个奴隶，是有莘氏的陪嫁奴隶。他做菜特别好吃，商汤特别喜欢他做的菜。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\007-31d95aac16.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\007-31d95aac16.tight.wav",
       "start": 60.0877,
       "duration": 10.2845,
       "raw_duration": 12.5445,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\007-31d95aac16.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\007-31d95aac16.wav"
     },
     {
       "index": 8,
       "text": "然后伊尹就借着跟商汤聊做菜的机会，跟他聊治国。说做菜要五味调和，治国也要五味调和。商汤一听，这是个牛人啊。直接把他从奴隶提拔成了宰相。",
       "spoken": "然后伊尹就借着跟商汤聊做菜的机会，跟他聊治国。说做菜要五味调和，治国也要五味调和。商汤一听，这是个牛人啊。直接把他从奴隶提拔成了宰相。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\008-98f70bf766.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\008-98f70bf766.tight.wav",
       "start": 70.3922,
       "duration": 10.3529,
       "raw_duration": 12.1829,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\008-98f70bf766.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\008-98f70bf766.wav"
     },
     {
       "index": 9,
       "text": "这就是中国历史上第一个奴隶宰相。有了伊尹辅佐，商汤开始积蓄力量。他干了什么？他先打掉了夏桀的几个铁杆盟友。葛伯、韦、顾、昆吾，一个个都被他灭了。",
       "spoken": "这就是中国历史上第一个奴隶宰相。有了伊尹辅佐，商汤开始积蓄力量。他干了什么？他先打掉了夏桀的几个铁杆盟友。葛伯、韦、顾、昆吾，一个个都被他灭了。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\009-b0f205f240.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\009-b0f205f240.tight.wav",
       "start": 80.7651,
       "duration": 10.2873,
       "raw_duration": 12.9473,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\009-b0f205f240.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\009-b0f205f240.wav"
     },
     {
       "index": 10,
       "text": "夏桀这时候在干什么？他还在喝酒。他根本没注意到商汤在西边一天天壮大。等到商汤的兵打到鸣条的时候，夏桀才反应过来。但已经晚了。鸣条一战，夏桀战败。夏朝灭亡。",
       "spoken": "夏桀这时候在干什么？他还在喝酒。他根本没注意到商汤在西边一天天壮大。等到商汤的兵打到鸣条的时候，夏桀才反应过来。但已经晚了。鸣条一战，夏桀战败。夏朝灭亡。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\010-2519149932.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\010-2519149932.tight.wav",
       "start": 91.0724,
       "duration": 11.5088,
       "raw_duration": 14.7788,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\010-2519149932.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\010-2519149932.wav"
     },
     {
       "index": 11,
       "text": "商汤就这么建立了商朝。商汤建立商朝之后，干了几件大事。第一，他减轻赋税。他知道老百姓被夏桀压榨惨了，上台之后第一件事就是减税。第二，他安抚夏朝的遗民。",
       "spoken": "商汤就这么建立了商朝。商汤建立商朝之后，干了几件大事。第一，他减轻赋税。他知道老百姓被夏桀压榨惨了，上台之后第一件事就是减税。第二，他安抚夏朝的遗民。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\011-00a98399e0.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\011-00a98399e0.tight.wav",
       "start": 102.6012,
       "duration": 11.306,
       "raw_duration": 14.426,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\011-00a98399e0.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\011-00a98399e0.wav"
     },
     {
       "index": 12,
       "text": "他没有把夏朝的贵族全杀了，而是把他们封到了杞地。就是后来杞人忧天那个杞国。第三，他迁都。他把国都从商丘迁到了亳。为什么迁？",
       "spoken": "他没有把夏朝的贵族全杀了，而是把他们封到了杞地。就是后来杞人忧天那个杞国。第三，他迁都。他把国都从商丘迁到了亳。为什么迁？",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\012-e3a85bfc3d.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\012-e3a85bfc3d.tight.wav",
       "start": 113.9272,
       "duration": 8.9575,
       "raw_duration": 11.4375,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\012-e3a85bfc3d.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\012-e3a85bfc3d.wav"
     },
     {
       "index": 13,
       "text": "因为他想找一个地理中心，方便统治整个天下。第四，他立法。商朝的法律，比夏朝宽松多了。你看，这就是开国君主和亡国之君的区别。",
       "spoken": "因为他想找一个地理中心，方便统治整个天下。第四，他立法。商朝的法律，比夏朝宽松多了。你看，这就是开国君主和亡国之君的区别。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\013-98bbe21d28.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\013-98bbe21d28.tight.wav",
       "start": 122.9046,
       "duration": 9.1676,
       "raw_duration": 12.2576,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\013-98bbe21d28.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\013-98bbe21d28.wav"
     },
     {
       "index": 14,
       "text": "亡国之君天天打仗，开国君主天天搞建设。说到商汤，就必须说伊尹。伊尹有多牛？他不光辅佐商汤灭了夏，他还辅佐了商汤的儿子、孙子。商汤死后，他的儿子外丙继位。",
       "spoken": "亡国之君天天打仗，开国君主天天搞建设。说到商汤，就必须说伊尹。伊尹有多牛？他不光辅佐商汤灭了夏，他还辅佐了商汤的儿子、孙子。商汤死后，他的儿子外丙继位。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\014-3f5af3de54.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\014-3f5af3de54.tight.wav",
       "start": 132.0923,
       "duration": 11.9503,
       "raw_duration": 15.2203,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\014-3f5af3de54.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\014-3f5af3de54.wav"
     },
     {
       "index": 15,
       "text": "外丙死后，仲壬继位。仲壬死后，伊尹干脆自己摄政了。然后呢？然后他把商汤的孙子太甲，给流放了。为什么？因为太甲当国王之后，不遵守商汤定下的规矩，胡作非为。",
       "spoken": "外丙死后，仲壬继位。仲壬死后，伊尹干脆自己摄政了。然后呢？然后他把商汤的孙子太甲，给流放了。为什么？因为太甲当国王之后，不遵守商汤定下的规矩，胡作非为。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\015-f64552117a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\015-f64552117a.tight.wav",
       "start": 144.0626,
       "duration": 11.464,
       "raw_duration": 15.054,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\015-f64552117a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\015-f64552117a.wav"
     },
     {
       "index": 16,
       "text": "伊尹说：你这样不行，你去桐宫给你爷爷守墓去。太甲在桐宫守了三年墓。三年之后，他后悔了，改好了。伊尹又把他接回来，把王位还给了他。",
       "spoken": "伊尹说：你这样不行，你去桐宫给你爷爷守墓去。太甲在桐宫守了三年墓。三年之后，他后悔了，改好了。伊尹又把他接回来，把王位还给了他。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\016-1c96886935.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\016-1c96886935.tight.wav",
       "start": 155.5466,
       "duration": 9.9363,
       "raw_duration": 13.1063,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\016-1c96886935.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\016-1c96886935.wav"
     },
     {
       "index": 17,
       "text": "这就是历史上著名的伊尹放太甲。你想想，一个臣子，把国王流放了，三年后国王改好了，他又把王位还回去了。这在历史上，除了伊尹，没有第二个人做到。",
       "spoken": "这就是历史上著名的伊尹放太甲。你想想，一个臣子，把国王流放了，三年后国王改好了，他又把王位还回去了。这在历史上，除了伊尹，没有第二个人做到。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\017-233f588f89.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\017-233f588f89.tight.wav",
       "start": 165.5029,
       "duration": 10.028,
       "raw_duration": 12.848,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\017-233f588f89.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\017-233f588f89.wav"
     },
     {
       "index": 18,
       "text": "后来的权臣，不管是曹操还是司马懿，哪个不是把皇帝当傀儡，然后自己取而代之？只有伊尹，流放过国王，又还政于国王。所以后世说伊尹霍光之志，就是忠臣的最高标准。",
       "spoken": "后来的权臣，不管是曹操还是司马懿，哪个不是把皇帝当傀儡，然后自己取而代之？只有伊尹，流放过国王，又还政于国王。所以后世说伊尹霍光之志，就是忠臣的最高标准。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\018-b2e48a3383.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\018-b2e48a3383.tight.wav",
       "start": 175.5508,
       "duration": 11.8736,
       "raw_duration": 14.7336,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\018-b2e48a3383.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\018-b2e48a3383.wav"
     },
     {
       "index": 19,
       "text": "你可能会说：一个三千六百年前的国王，跟我有什么关系？关系大了。第一，革命这个词，是商汤发明的。什么叫革命？就是统治者不行了，老天爷收回他的天命，换一个人来。",
       "spoken": "你可能会说：一个三千六百年前的国王，跟我有什么关系？关系大了。第一，革命这个词，是商汤发明的。什么叫革命？就是统治者不行了，老天爷收回他的天命，换一个人来。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\019-faf2da89f0.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\019-faf2da89f0.tight.wav",
       "start": 187.4444,
       "duration": 11.7893,
       "raw_duration": 15.8993,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\019-faf2da89f0.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\019-faf2da89f0.wav"
     },
     {
       "index": 20,
       "text": "这个思想，影响了中国三千六百年。任何一个朝代，老百姓都觉得：你不行，我就可以换你。第二，网开三面这个故事，告诉我们做事别做绝。",
       "spoken": "这个思想，影响了中国三千六百年。任何一个朝代，老百姓都觉得：你不行，我就可以换你。第二，网开三面这个故事，告诉我们做事别做绝。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\020-a83b42cc0e.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\020-a83b42cc0e.tight.wav",
       "start": 199.2537,
       "duration": 9.3891,
       "raw_duration": 12.7891,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\020-a83b42cc0e.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\020-a83b42cc0e.wav"
     },
     {
       "index": 21,
       "text": "你给别人留后路，就是给自己留后路。第三，伊尹放太甲这个故事，告诉我们什么叫真正的忠臣。不是皇帝说什么你都听，是皇帝做错了你敢说，敢管。行，不扯远了。",
       "spoken": "你给别人留后路，就是给自己留后路。第三，伊尹放太甲这个故事，告诉我们什么叫真正的忠臣。不是皇帝说什么你都听，是皇帝做错了你敢说，敢管。行，不扯远了。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\021-f0ec3e2e13.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\021-f0ec3e2e13.tight.wav",
       "start": 208.6628,
       "duration": 10.921,
       "raw_duration": 14.101,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\021-f0ec3e2e13.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\021-f0ec3e2e13.wav"
     },
     {
       "index": 22,
       "text": "我是艾伦，遛狗去了，白了个白。",
       "spoken": "我是艾伦，遛狗去了，白了个白。",
-      "file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\022-1956e9754a.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\022-1956e9754a.tight.wav",
       "start": 219.6038,
       "duration": 2.1273,
       "raw_duration": 2.9173,
-      "raw_file": "D:\\@kaifa\\lishi\\出稿\\011_商汤\\narration-chunks\\022-1956e9754a.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\出稿\\011_商汤\\narration-chunks\\022-1956e9754a.wav"
     }
   ]
 }

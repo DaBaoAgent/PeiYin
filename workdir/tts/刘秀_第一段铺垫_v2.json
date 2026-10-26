@@ -379,47 +379,47 @@
     "gate_db": -33.0,
     "gate_floor": 0.3
   },
-  "script": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\刘秀_第一段铺垫.txt",
+  "script": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\刘秀_第一段铺垫.txt",
   "chunks": [
     {
       "index": 1,
       "text": "刘秀是刘邦的九世孙。听着吓人是吧？其实到他这一代，家里已经穷得跟普通农民没区别了。",
       "spoken": "刘秀是刘邦的九世孙。听着吓人是吧？其实到他这一代，家里已经穷得跟普通农民没区别了。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-29902b5fb8.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-29902b5fb8.tight.wav",
       "start": 0.0,
       "duration": 6.4039,
       "raw_duration": 7.8964,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-29902b5fb8.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\001-29902b5fb8.wav"
     },
     {
       "index": 2,
       "text": "他哥刘縯，是个江湖大哥，天天散尽家财招兵买马，一口一个\"我要光复高祖事业\"。刘秀呢？他就种地。种得还挺好。村里人人都说，这小伙子踏实。",
       "spoken": "他哥刘縯，是个江湖大哥，天天散尽家财招兵买马，一口一个\"我要光复高祖事业\"。刘秀呢？他就种地。种得还挺好。村里人人都说，这小伙子踏实。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-28ada4e19d.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-28ada4e19d.tight.wav",
       "start": 6.4239,
       "duration": 11.4329,
       "raw_duration": 13.0555,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-28ada4e19d.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\002-28ada4e19d.wav"
     },
     {
       "index": 3,
       "text": "后来他哥起兵造反，把他也拽上了。你想啊，一个连鸡都没杀过的种地的，突然就上战场了。昆阳被围的时候，他是那个带着十三个人，半夜从城里缝里钻出去搬救兵的小将军。",
       "spoken": "后来他哥起兵造反，把他也拽上了。你想啊，一个连鸡都没杀过的种地的，突然就上战场了。昆阳被围的时候，他是那个带着十三个人，半夜从城里缝里钻出去搬救兵的小将军。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-a18d5c6512.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-a18d5c6512.tight.wav",
       "start": 17.8768,
       "duration": 11.9954,
       "raw_duration": 14.5079,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-a18d5c6512.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\003-a18d5c6512.wav"
     },
     {
       "index": 4,
       "text": "搬回来多少人？三千。三千人对四十二万。这仗，按正常逻辑，他应该跑。",
       "spoken": "搬回来多少人？三千。三千人对四十二万。这仗，按正常逻辑，他应该跑。",
-      "file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-a280bf0882.tight.wav",
+      "file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-a280bf0882.tight.wav",
       "start": 29.8922,
       "duration": 5.6675,
       "raw_duration": 7.89,
-      "raw_file": "D:\\@kaifa\\lishi\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-a280bf0882.wav"
+      "raw_file": "D:\\@kaifa\\PeiYin\\donghua-pipeline\\05-配音提示\\audio\\narration-chunks\\004-a280bf0882.wav"
     }
   ]
 }

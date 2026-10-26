@@ -2,9 +2,9 @@
 $ErrorActionPreference = 'Continue'
 $py     = "D:\GPT-SoVITS\.venv\Scripts\python.exe"
 $engine = "D:\GPT-SoVITS\dabao_tts.py"
-$audioDir = "D:\@kaifa\lishi\donghua-pipeline\05-配音提示\audio"
-$base   = "D:\@kaifa\lishi\出稿"
-$log    = "D:\@kaifa\lishi\配音批次_20261024_v3.log"
+$audioDir = "D:\@kaifa\PeiYin\donghua-pipeline\05-配音提示\audio"
+$base   = "D:\@kaifa\PeiYin\出稿"
+$log    = "D:\@kaifa\PeiYin\配音批次_20261024_v3.log"
 
 $jobs = @(
     @{ n = '007_炎帝'; txt = Join-Path $audioDir '炎帝_全篇.txt' },
