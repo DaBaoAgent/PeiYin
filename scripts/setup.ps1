@@ -343,6 +343,33 @@ if ($SkipSmoke) {
         }
         if ($health -and $health.ok) {
             Ok "tts_server 健康检查通过（voice=$($health.voice), model=$($health.model)）"
+            Info "合成一句测试文本，校验 MP3 编码链路..."
+            $synthOk = $false
+            $synthMsg = ""
+            try {
+                $payload = @{ input = "初始化测试。" } | ConvertTo-Json -Compress
+                $resp = Invoke-WebRequest -Uri "http://127.0.0.1:$Port/tts" -Method Post `
+                    -Body ([Text.Encoding]::UTF8.GetBytes($payload)) `
+                    -ContentType "application/json; charset=utf-8" -TimeoutSec 180 -UseBasicParsing
+                if ($resp.StatusCode -eq 200 -and $resp.RawContentLength -gt 1000) {
+                    $synthOk = $true
+                    $synthMsg = "{0:N1} KB MP3" -f ($resp.RawContentLength / 1024)
+                } else {
+                    $synthMsg = "HTTP $($resp.StatusCode)，响应 $($resp.RawContentLength) 字节"
+                }
+            } catch {
+                $synthMsg = $_.Exception.Message
+            }
+            if ($synthOk) {
+                Ok "合成测试通过（$synthMsg）"
+            } else {
+                try { Stop-Process -Id $proc.Id -Force -ErrorAction SilentlyContinue } catch {}
+                $errTail = ""
+                if (Test-Path -LiteralPath $smokeErr) { $errTail = (Get-Content -LiteralPath $smokeErr -Tail 20) -join "`n" }
+                $outTail = ""
+                if (Test-Path -LiteralPath $smokeOut) { $outTail = (Get-Content -LiteralPath $smokeOut -Tail 20) -join "`n" }
+                Fail "tts_server 合成测试失败：$synthMsg`nstdout:`n$outTail`nstderr:`n$errTail`n详见 $smokeDir\setup_smoke.*.log 与 tts_server.log"
+            }
         } else {
             try { Stop-Process -Id $proc.Id -Force -ErrorAction SilentlyContinue } catch {}
             $errTail = ""

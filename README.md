@@ -94,7 +94,7 @@ pwsh -File .\scripts\setup.ps1 -PipIndexUrl https://repo.huaweicloud.com/reposit
 
 `setup.ps1` 会依次完成：初始化 submodule → 校验/拉取 LFS 模型与音色资源 → 创建
 `GPT-SoVITS/.venv`（Python 3.11）→ 安装 torch 2.6 CPU 与依赖 → 启动
-`tts_server` 做健康检查。没装 `pwsh` 时改用：
+`tts_server` 做健康检查并真实合成一句（覆盖 ffmpeg / MP3 链路）。没装 `pwsh` 时改用：
 `powershell -ExecutionPolicy Bypass -File .\scripts\setup.ps1 -PipIndexUrl https://repo.huaweicloud.com/repository/pypi/simple/`。
 
 - 国内网络访问 GitHub LFS 慢时，可先跳过 LFS 大文件再克隆，由 setup 按需补拉：
